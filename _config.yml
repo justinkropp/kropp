@@ -22,7 +22,7 @@ exclude:
   - .git
   - .jekyll-cache
   - Gemfile
-  - Gemfile.lock
+  # - Gemfile.lock
   - LICENSE.md
   - README.md
 
