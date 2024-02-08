@@ -2,6 +2,7 @@
 layout: post
 title: Example content
 category: Technology
+published: false
 ---
 
 **Howdy!** This is an example blog post that shows several types of HTML content supported in this theme.

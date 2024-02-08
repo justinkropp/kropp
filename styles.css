@@ -4,3 +4,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+article p {
+    margin: 0 0 1.5rem 0;
+}
