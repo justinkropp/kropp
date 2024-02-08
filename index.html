@@ -4,21 +4,22 @@ title: Home
 ---
 
 
-<section class="posts">
+<!-- <section class="">
     {% for post in site.posts %}
-    <article>
         {% if post.url %}
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <p>{{ post.tags }}</p>
-        <p>{{ post.excerpt }}</p>
-        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+        <a href="{{ post.url }}" class="flex justify-between py-5 border-b border-[#333]">
+          <h2 class="w-6/12 font-bold">{{ post.title }}</h2>
+          <p class="w-3/12 text-[#999]">{{ post.category }}</p>
+          <p class="w-2/12 text-[#999]" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B" }}</p>
+          <p class="w-1/12 text-[#999] text-right" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</p>
+        </a>
         {% endif %}
-    </article>
     {% endfor %}
-  </section>
+  </section> -->
 
 <!-- <p>{{ post.excerpt }}</p> -->
 <!-- <p>{{ post.category }}</p> -->
+<!-- <p>{{ post.tags }}</p> -->
 
 <!-- <div class="posts">
   {% for post in paginator.posts %}
