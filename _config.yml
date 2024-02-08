@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Justin Kropp
+tagline: Product Designer
+url: https://justinkropp.com
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -11,6 +11,10 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-postcss
+
+postcss:
+  cache: false
 
 # Optimize Jekyll
 exclude:
@@ -22,9 +26,9 @@ exclude:
   - LICENSE.md
   - README.md
 
-sass:
-  sass_dir: _sass
-  style: :compressed
+# sass:
+#   sass_dir: _sass
+#   style: :compressed
 
 # Options
 
@@ -33,9 +37,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Justin Kropp
+  url: https://justinkropp.com
+  email: justinkropp@gmail.com
 
 # Custom vars
 version: 3.0.0
