@@ -567,9 +567,8 @@ video {
 .font-pitchsans {
   font-family: PitchSans;
 }
-.text-sm {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
+.font-pitchsansbold {
+  font-family: PitchSansBold;
 }
 .font-\[400\] {
   font-weight: 400;
@@ -610,23 +609,37 @@ article p {
 
 @font-face {
     font-family: 'PitchSans';
-    font-style: normal;
-    font-weight: 400 600 800;
     src: url('../assets/test-pitch-sans-regular.woff2');
+}
+
+@font-face {
+    font-family: 'PitchSansBold';
+    src: url('../assets/test-pitch-sans-bold.woff2');
 }
 
 main {
     div {
-        h2, h3, h4, p, ul, ol {
+        h1, h2, h3, h4, p, ul, ol {
             font-weight: normal;
             margin: 0 0 1.5rem 0;
+        }
+        h1, h2, h3, h4 {
+            font-family: 'PitchSansBold';
         }
         strong {
             font-weight: normal;
         }
-        ul {
+        ul, ol {
+            display: flex;
+            flex-direction: column;
             list-style: auto;
-            list-style-position: inside;
+            list-style-position: outside;
+            margin-left: 3rem;
+            gap: .5rem;
+        }
+        a {
+            text-decoration: none;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.5);
         }
     }
 }

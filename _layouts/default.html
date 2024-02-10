@@ -3,17 +3,17 @@
 
   {% include head.html %}
 
-  <body id="top" class="antialiased h-full bg-black text-sm text-white font-pitchsans">
+  <body id="top" class="antialiased h-full bg-black text-m text-white font-pitchsans">
 
     <div class="w-full min-h-dvh p-10">
 
       <header class="flex justify-between mb-10">
-        <h1 class="font-[400]">
-          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+        <h1 class="font-pitchsansbold">
+          <a href="{{ site.baseurl }}/" class="text-white" title="Home">{{ site.title }}</a>
         </h1>
         <nav class="flex">
           <ul class="flex gap-6">
-            <li><a href="about/" class="text-[#999] hover:text-white transition-all">About</a></li>
+            <li><a href="/about/" class="text-[#999] hover:text-white transition-all">About</a></li>
             <li><a href="/" class="text-[#999] hover:text-white transition-all">Projects</a></li>
             <li><a href="https://photos.justinkropp.com" class="text-[#999] hover:text-white transition-all">Photos</a></li>
           </ul>

@@ -11,6 +11,7 @@ module.exports = {
       fontFamily: {
         pitch: ['Pitch'],
         pitchsans: ['PitchSans'],
+        pitchsansbold: ['PitchSansBold'],
       },
       extend: {
         fontFamily: {
