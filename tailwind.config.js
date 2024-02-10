@@ -8,10 +8,17 @@ module.exports = {
       './*.html',
     ],
     theme: {
-      theme: {
-        extend: {},
+      fontFamily: {
+        pitch: ['Pitch'],
+        pitchsans: ['PitchSans'],
+      },
+      extend: {
+        fontFamily: {
+        },
       },
     },
-    plugins: []
+    plugins: [
+      require('@tailwindcss/typography'),
+    ]
   }
   

@@ -4,13 +4,71 @@
  <title>Justin Kropp</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-02-08T17:20:42-05:00</updated>
+ <updated>2024-02-10T10:17:38-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Justin Kropp</name>
    <email>justinkropp@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>What is a designer</title>
+   <link href="http://localhost:4000/what-is-a-designer"/>
+   <updated>2024-02-10T00:00:00-05:00</updated>
+   <id>http://localhost:4000/what-is-a-designer</id>
+   <content type="html">&lt;p&gt;I’ve been re-reading Norman Potter’s eloquent &lt;a href=&quot;http://amzn.to/2BGFDDf&quot;&gt;What Is a Designer&lt;/a&gt;. There are a handful of books that I revisit periodically to both refresh my perspective on and rekindle the relationship with my discipline — graphic design.&lt;/p&gt;
+
+&lt;p&gt;With each passing year this book has proven to be more and more imperative as a tool for young designers to use in exploring and shaping their practice. Potter positions design as a serious act of intellectual enquiry. The following passages always resonate with me in a profound way:&lt;/p&gt;
+
+&lt;h3 id=&quot;on-design-education-principles&quot;&gt;&lt;strong&gt;On design education principles:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The reality factors in academic life may appear to derive less from studio project work, which is always imperfectly ‘real’, than from the discussion that surrounds such work, the exploration of angles of attack, and the slow take-up represented by the experience of community.&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;Design education must, by its nature, dig below the surface, and must at the outset be more concerned to clarify intentions than to get good results.&lt;/em&gt;&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;on-good-design&quot;&gt;&lt;strong&gt;On good design:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For the designer, good design is the generous and pertinent response to the full context of a design opportunity, whether large or small, and the quality of the outcome resides in a close and truthful correspondence between form and meaning. The meaning of a good garden spade is seen in its behavior, that it performs well; in its look and feel, its strength and required durability; in a directness of address through the simple expression of its function.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;That last bit — &lt;em&gt;a directness of address through the simple expression of its function&lt;/em&gt;. So good. Adhering to this as a consistent and applied principle of digital product design could alleviate much of the ubiquity of atrocious user experiences.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Beyond familiar</title>
+   <link href="http://localhost:4000/beyond-familiar"/>
+   <updated>2024-02-10T00:00:00-05:00</updated>
+   <id>http://localhost:4000/beyond-familiar</id>
+   <content type="html">&lt;p&gt;I recently visited Chattanooga in Tennessee. It’s my hometown and a trip there is never easy for me. There is always a point during my visits when I become emotional as slivers of my past — the good and the bad — resurface. There are parts of the city that conjure up memories that I’d rather not revisit: painful breakups, a car accident, and familial drama. But there are also locations that provide an overwhelming source of happiness and fondness — the hundreds of beautiful days I spent outside rock-climbing with friends, the amazing job I had at an outdoor shop during high-school and college, and my first kiss with Erin.&lt;/p&gt;
+
+&lt;p&gt;While growing up here, the city always felt comfortable and safe. I knew the people and I knew my way around. Getting lost in this place was almost impossible. The city was predictable, and as I grew older and my curiosity stronger, it didn’t offer what I needed: unfamiliarity and opportunities for discovery. My hometown became destined to be just that: my hometown, a place where I grew up. So I did what I needed to do and moved away.&lt;/p&gt;
+
+&lt;p&gt;On my most recent visit home, while wandering through the town and past some of my usual spots, I began to realise not only how my feelings had changed, but how the city itself had changed. I was now an outside observer visiting a place that felt foreign, despite the familiarity. This was not the hometown I knew anymore. This was not that muted city with only one decent coffee shop and a notable population of vagabonds. This town felt alive and vibrant; its pulse youthful. I found myself discovering things to love; things I hadn’t encountered before. These discoveries were nourishing and restoring my relationship with the place that I once couldn’t wait to leave.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A mind that is stretched by a new experience can never go back to its old dimensions
+~ &lt;em&gt;Oliver Wendell Holmes, Jr.&lt;/em&gt;&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;For many of us, there’s a period in our adolescence when we can’t wait to leave home. We yearn to strike out on our own, carve our own path, and prove that we belong in this world. We need to test ourselves, to prove that we can provide for ourselves and accomplish something. Leaving home is never easy. Change, in general, is never easy, but it’s necessary if we’re to allow ourselves the chance to grow. I’m reminded of a quote by Oliver Wendell Holmes, Jr. who said “A mind that is stretched by a new experience can never go back to its old dimensions”.&lt;/p&gt;
+
+&lt;p&gt;I find a lot of parallels between the experiences I’ve had returning home and the relationship I have with our industry. I love what I do and find comfort in knowing that discoveries in technology will continue to push the boundaries of what we do and how we do it. I count myself lucky to be engaged in a creative pursuit that rewards curiosity. But I still get burnt out, run down, and frustrated. Our work not only demands innovative thinking with a pragmatic approach, but managing clients, project budgets, growing to-do lists, and the elusive inbox zero. Our field is evolving at an ever-increasing pace, and if we want to remain relevant we, too, must evolve right along with it. As a digital product designer, change is a responsibility I owe not only myself, but the audiences my work serves.&lt;/p&gt;
+
+&lt;p&gt;However, over the years I’ve learned that professional growth isn’t just about remaining abreast of the advances in our field. Keeping up with the changes in our profession is necessary, but in the process, it is all too easy to close ourselves off in an echo-chamber of design and technology. Sometimes we need to step away from our professional roles and pursue other interests in order to grow. Experiences we have outside the realm of our expertise can help us to provide additional layers of insight to the projects we take on. Our work may become better as a result and provide new perspectives to those who see it.&lt;/p&gt;
+
+&lt;p&gt;I had always been interested in psychology, so several years ago I began pursuing a degree in behavioural psychology. I was presented with fascinating facts about the way we behave and the influencers of that behaviour. Entering an unknown territory and engaging with an entirely new subject matter helped me become a better user experience designer.&lt;/p&gt;
+
+&lt;p&gt;I left home and gained a new perspective on why I loved where I was from. Stepping away and leaving the familiar behind, if only for a short period of time, can help us broaden our horizons. A renewed vision brings with it a restored focus. We can return to work with a deeper respect for what we do and who we are.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>False Idols</title>

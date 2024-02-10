@@ -35,43 +35,68 @@
 </head>
 
 
-  <body class="antialiased h-full bg-black text-sm text-white font-mono">
+  <body id="top" class="antialiased h-full bg-black text-sm text-white font-pitchsans">
 
     <div class="w-full min-h-dvh p-10">
 
-      <header class="mb-10">
-        <h3 class="">
+      <header class="flex justify-between mb-10">
+        <h1 class="font-[400]">
           <a href="/" title="Home">Justin Kropp</a>
-        </h3>
+        </h1>
+        <nav class="flex">
+          <ul class="flex gap-6">
+            <li><a href="about/" class="text-[#999] hover:text-white transition-all">About</a></li>
+            <li><a href="/" class="text-[#999] hover:text-white transition-all">Projects</a></li>
+            <li><a href="https://photos.justinkropp.com" class="text-[#999] hover:text-white transition-all">Photos</a></li>
+          </ul>
+        </nav>
       </header>
 
       <main>
         <section class="">
     
         
-        <a href="/false-idols" class="flex justify-between py-5 border-b border-[#333]">
-          <h2 class="w-6/12 font-bold">False Idols</h2>
-          <p class="w-3/12 text-[#999]">Design</p>
-          <p class="w-2/12 text-[#999]" datetime="2024-02-06T00:00:00-05:00">February</p>
-          <p class="w-1/12 text-[#999] text-right" datetime="2024-02-06T00:00:00-05:00">2024</p>
+        <a href="/what-is-a-designer" class="flex justify-between py-5 border-b border-[#333] hover:border-white text-[#999] hover:text-white transition-all">
+          <h2 class="w-6/12 font-[400]">What is a designer</h2>
+          <p class="w-3/12">Design</p>
+          <p class="w-2/12" datetime="2024-02-10T00:00:00-05:00">February</p>
+          <p class="w-1/12 text-right" datetime="2024-02-10T00:00:00-05:00">2024</p>
         </a>
         
     
         
-        <a href="/levity" class="flex justify-between py-5 border-b border-[#333]">
-          <h2 class="w-6/12 font-bold">Levity</h2>
-          <p class="w-3/12 text-[#999]">Culture</p>
-          <p class="w-2/12 text-[#999]" datetime="2024-02-04T00:00:00-05:00">February</p>
-          <p class="w-1/12 text-[#999] text-right" datetime="2024-02-04T00:00:00-05:00">2024</p>
+        <a href="/beyond-familiar" class="flex justify-between py-5 border-b border-[#333] hover:border-white text-[#999] hover:text-white transition-all">
+          <h2 class="w-6/12 font-[400]">Beyond familiar</h2>
+          <p class="w-3/12">Observation</p>
+          <p class="w-2/12" datetime="2024-02-10T00:00:00-05:00">February</p>
+          <p class="w-1/12 text-right" datetime="2024-02-10T00:00:00-05:00">2024</p>
         </a>
         
     
         
-        <a href="/jomo" class="flex justify-between py-5 border-b border-[#333]">
-          <h2 class="w-6/12 font-bold">JOMO</h2>
-          <p class="w-3/12 text-[#999]">Design</p>
-          <p class="w-2/12 text-[#999]" datetime="2024-02-01T00:00:00-05:00">February</p>
-          <p class="w-1/12 text-[#999] text-right" datetime="2024-02-01T00:00:00-05:00">2024</p>
+        <a href="/false-idols" class="flex justify-between py-5 border-b border-[#333] hover:border-white text-[#999] hover:text-white transition-all">
+          <h2 class="w-6/12 font-[400]">False Idols</h2>
+          <p class="w-3/12">Design</p>
+          <p class="w-2/12" datetime="2024-02-06T00:00:00-05:00">February</p>
+          <p class="w-1/12 text-right" datetime="2024-02-06T00:00:00-05:00">2024</p>
+        </a>
+        
+    
+        
+        <a href="/levity" class="flex justify-between py-5 border-b border-[#333] hover:border-white text-[#999] hover:text-white transition-all">
+          <h2 class="w-6/12 font-[400]">Levity</h2>
+          <p class="w-3/12">Culture</p>
+          <p class="w-2/12" datetime="2024-02-04T00:00:00-05:00">February</p>
+          <p class="w-1/12 text-right" datetime="2024-02-04T00:00:00-05:00">2024</p>
+        </a>
+        
+    
+        
+        <a href="/jomo" class="flex justify-between py-5 border-b border-[#333] hover:border-white text-[#999] hover:text-white transition-all">
+          <h2 class="w-6/12 font-[400]">JOMO</h2>
+          <p class="w-3/12">Design</p>
+          <p class="w-2/12" datetime="2024-02-01T00:00:00-05:00">February</p>
+          <p class="w-1/12 text-right" datetime="2024-02-01T00:00:00-05:00">2024</p>
         </a>
         
     
@@ -85,38 +110,34 @@
   
   <article class="post">
     <h1 class="post-title">
-      <a href="/false-idols">
-        False Idols
+      <a href="/what-is-a-designer">
+        What is a designer
       </a>
     </h1>
 
-    <time datetime="2024-02-06T00:00:00-05:00" class="post-date">06 Feb 2024</time>
+    <time datetime="2024-02-10T00:00:00-05:00" class="post-date">10 Feb 2024</time>
 
-    <p>Every profession has its version of celebrity practitioner. Some professions have many, while others seem to just have a small handful that make the rounds for years in publications, conferences, panels, etc. In graphic design, Stefan Sagmeister was a the closest thing we had to a rock star, and he remained the exalted one for years. In standards-based web design it was Jeffrey Zeldman. Flash? Joshua Davis. In digital product design there seem to be countless that tread at the top, in part due to the many disciplines that are squished together and encapsulated in the term “product design”.</p>
+    <p>I’ve been re-reading Norman Potter’s eloquent <a href="http://amzn.to/2BGFDDf">What Is a Designer</a>. There are a handful of books that I revisit periodically to both refresh my perspective on and rekindle the relationship with my discipline — graphic design.</p>
 
-<p>Our profession – design (web, product, etc) – has its idols. Folks we look up to for their design acumen and body of work, whether that work is applied or theoretical. It’s only natural – human nature even – to place these practitioners we admire up on a pedestal.</p>
+<p>With each passing year this book has proven to be more and more imperative as a tool for young designers to use in exploring and shaping their practice. Potter positions design as a serious act of intellectual enquiry. The following passages always resonate with me in a profound way:</p>
 
-<p>Seldom do we get to meet them and even more seldom do we get to work alongside them. We only know the image that we’ve abstracted from what we’ve seen at conference talks, interviews online, or perhaps in podcasts they host or have been guests on. The constructed image is illusory at best.</p>
+<h3 id="on-design-education-principles"><strong>On design education principles:</strong></h3>
 
 <blockquote>
-  <p>It is unwise to seek personal acquaintance with people whom one has regarded with high esteem, as they often fail to fulfill one’s expectations, resulting in disappointment.
-— ancient proverb</p>
+  <p>The reality factors in academic life may appear to derive less from studio project work, which is always imperfectly ‘real’, than from the discussion that surrounds such work, the exploration of angles of attack, and the slow take-up represented by the experience of community.</p>
+
+  <p><em>Design education must, by its nature, dig below the surface, and must at the outset be more concerned to clarify intentions than to get good results.</em></p>
 
 </blockquote>
 
-<p>One hundred percent this.</p>
-
-<p>I recently had the opportunity to work alongside someone whose work and writing I had admired for some time. Probably the better part of a decade. I’d read his book, watched his conference talks, and followed his growing body of work. He had an eloquent way of speaking about our craft as designers and could break down complex ideas into easy to digest chunks with what seemed like ease. He seemed like an affable dude.</p>
-
-<p>When I got to know him, I realized that those things I admired about him were more about the work and the approach to the work, and had nothing to do with the person. The person was an entirely different… experience.</p>
-
-<p>To say I was disappointed would be an understatement. But this disappointment is on me. I made the mistake of not only putting his work on a pedestal, I put him there too. And that’s not fair. We are never our work, I hope, and never should be.</p>
+<h3 id="on-good-design"><strong>On good design:</strong></h3>
 
 <blockquote>
-  <p>Your profession is not your personality. Reducing yourself to any single characteristic, whether it be your title or your job performance, is a deeply damaging act.
-— Arthur C. Brooks</p>
+  <p>For the designer, good design is the generous and pertinent response to the full context of a design opportunity, whether large or small, and the quality of the outcome resides in a close and truthful correspondence between form and meaning. The meaning of a good garden spade is seen in its behavior, that it performs well; in its look and feel, its strength and required durability; in a directness of address through the simple expression of its function.</p>
 
 </blockquote>
+
+<p>That last bit — <em>a directness of address through the simple expression of its function</em>. So good. Adhering to this as a consistent and applied principle of digital product design could alleviate much of the ubiquity of atrocious user experiences.</p>
 
   </article>
   
@@ -133,8 +154,9 @@
 
       </main>
 
-      <footer class="mt-10">
-          &copy; <time datetime="2024-02-08T17:20:42-05:00">2024</time>. All rights reserved.
+      <footer class="flex justify-between mt-10">
+          <p>&copy; <time datetime="2024-02-10T10:17:38-05:00">2024</time>. All rights reserved.</p>
+          <p><a href="#top">Top</a></p>
       </footer>
 
     </div>

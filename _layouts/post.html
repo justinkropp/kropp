@@ -5,11 +5,11 @@ layout: default
 <article class="">
 
   <header class="mb-10">
-    <h2 class="mb-1 font-bold">{{ page.title }}</h2>
+    <h2 class="mb-1 font-[400]">{{ page.title }}</h2>
     <p datetime="{{ page.date | date_to_xmlschema }}" class="text-[#666]">{{ page.date | date_to_string }}</p>
   </header>
 
-  <div class="max-w-xl">
+  <div class="max-w-xl leading-6">
     {{ content }}
   </div>
 

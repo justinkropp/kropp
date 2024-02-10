@@ -3,22 +3,30 @@
 
   {% include head.html %}
 
-  <body class="antialiased h-full bg-black text-sm text-white font-mono">
+  <body id="top" class="antialiased h-full bg-black text-sm text-white font-pitchsans">
 
     <div class="w-full min-h-dvh p-10">
 
-      <header class="mb-10">
-        <h3 class="">
+      <header class="flex justify-between mb-10">
+        <h1 class="font-[400]">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-        </h3>
+        </h1>
+        <nav class="flex">
+          <ul class="flex gap-6">
+            <li><a href="about/" class="text-[#999] hover:text-white transition-all">About</a></li>
+            <li><a href="/" class="text-[#999] hover:text-white transition-all">Projects</a></li>
+            <li><a href="https://photos.justinkropp.com" class="text-[#999] hover:text-white transition-all">Photos</a></li>
+          </ul>
+        </nav>
       </header>
 
       <main>
         {{ content }}
       </main>
 
-      <footer class="mt-10">
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
+      <footer class="flex justify-between mt-10">
+          <p>&copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.</p>
+          <p><a href="#top">Top</a></p>
       </footer>
 
     </div>

@@ -534,8 +534,14 @@ video {
 .max-w-xl {
   max-width: 36rem;
 }
+.grow {
+  flex-grow: 1;
+}
 .justify-between {
   justify-content: space-between;
+}
+.gap-6 {
+  gap: 1.5rem;
 }
 .border-b {
   border-bottom-width: 1px;
@@ -558,15 +564,18 @@ video {
 .text-right {
   text-align: right;
 }
-.font-mono {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+.font-pitchsans {
+  font-family: PitchSans;
 }
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
 }
-.font-bold {
-  font-weight: 700;
+.font-\[400\] {
+  font-weight: 400;
+}
+.leading-6 {
+  line-height: 1.5rem;
 }
 .text-\[\#666\] {
   --tw-text-opacity: 1;
@@ -584,7 +593,50 @@ video {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.transition-all {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
 
 article p {
     margin: 0 0 1.5rem 0;
+}
+
+@font-face {
+    font-family: 'Pitch';
+    src: url('../assets/test-pitch-regular.woff2');
+}
+
+@font-face {
+    font-family: 'PitchSans';
+    font-style: normal;
+    font-weight: 400 600 800;
+    src: url('../assets/test-pitch-sans-regular.woff2');
+}
+
+main {
+    div {
+        h2, h3, h4, p, ul, ol {
+            font-weight: normal;
+            margin: 0 0 1.5rem 0;
+        }
+        strong {
+            font-weight: normal;
+        }
+        ul {
+            list-style: auto;
+            list-style-position: inside;
+        }
+    }
+}
+
+.hover\:border-white:hover {
+  --tw-border-opacity: 1;
+  border-color: rgb(255 255 255 / var(--tw-border-opacity));
+}
+
+.hover\:text-white:hover {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }

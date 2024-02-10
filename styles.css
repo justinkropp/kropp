@@ -8,3 +8,31 @@
 article p {
     margin: 0 0 1.5rem 0;
 }
+
+@font-face {
+    font-family: 'Pitch';
+    src: url('../assets/test-pitch-regular.woff2');
+}
+
+@font-face {
+    font-family: 'PitchSans';
+    font-style: normal;
+    font-weight: 400 600 800;
+    src: url('../assets/test-pitch-sans-regular.woff2');
+}
+
+main {
+    div {
+        h2, h3, h4, p, ul, ol {
+            font-weight: normal;
+            margin: 0 0 1.5rem 0;
+        }
+        strong {
+            font-weight: normal;
+        }
+        ul {
+            list-style: auto;
+            list-style-position: inside;
+        }
+    }
+}
