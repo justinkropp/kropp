@@ -8,11 +8,6 @@ module.exports = {
       './*.html',
     ],
     theme: {
-      fontFamily: {
-        pitch: ['Pitch'],
-        pitchsans: ['PitchSans'],
-        pitchsansbold: ['PitchSansBold'],
-      },
       extend: {
         fontFamily: {
         },
