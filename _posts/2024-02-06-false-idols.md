@@ -1,7 +1,8 @@
 ---
 layout: post
 title: False Idols
-category: Design
+category: post
+tags: Design
 permalink: 'false-idols'
 ---
 

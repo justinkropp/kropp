@@ -7,13 +7,20 @@ module.exports = {
       './*.md',
       './*.html',
     ],
+    darkMode: 'class',
     theme: {
+      fontFamily: {
+        mono: ['GeistMono', 'monospace']
+      },
+
       extend: {
         fontFamily: {
         },
+
       },
     },
     plugins: [
+      require('@tailwindcss/forms'),
       require('@tailwindcss/typography'),
     ]
   }

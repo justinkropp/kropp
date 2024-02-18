@@ -1,165 +1,75 @@
 ---
 layout: post
 title: Example content
-category: Technology
+category: post
+tags: Markup
 published: false
+permalink: 'example-content'
 ---
 
-**Howdy!** This is an example blog post that shows several types of HTML content supported in this theme.
+<p>Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.</p>
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+<p>Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates voluptatibus molestias expedita. Doloremque eos dolor in ut velit quod aut.</p>
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- <mark>To highlight</mark>, use `<mark>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Mark Otto</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
-
-## Footnotes
-
-Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-sample_footnote] will lead you to a footnote. The syntax looks like:
-
-{% highlight text %}
-Clicking this number[^fn-sample_footnote]
-{% endhighlight %}
-
-Each footnote needs the `^fn-` prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:
-
-{% highlight text %}
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
-{% endhighlight %}
-
-You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
-
-## Heading
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-### Code
-
-Inline code is available with the `<code>` element. Snippets of multiple lines of code are supported through Rouge. Longer lines will automatically scroll horizontally when needed. You may also use code fencing (triple backticks) for rendering code.
-
-{% highlight js %}
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
-
-You may also optionally show code snippets with line numbers. Add `linenos` to the Rouge tags.
-
-{% highlight js linenos %}
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-### Gists via GitHub Pages
-
-Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
-
-{% gist 13f94b734a4ddb132735 gist.md %}
-
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.
-
-### Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
-
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
-
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-### Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](http://placehold.it/1200x900 "Large example image")
-
-### Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
+<table class="w-full table-auto border-collapse border border-slate-500 mb-10 rounded">
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
+      <th class="border border-slate-600 text-left p-2">City</th>
+      <th class="border border-slate-600 text-left p-2">State</th>
     </tr>
   </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
   <tbody>
     <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
+      <td class="border border-slate-700 p-2">Indiana</td>
+      <td class="border border-slate-700 p-2">Indianapolis</td>
     </tr>
     <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
+      <td class="border border-slate-700 p-2">Ohio</td>
+      <td class="border border-slate-700 p-2">Columbus</td>
     </tr>
     <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
+      <td class="border border-slate-700 p-2">Michigan</td>
+      <td class="border border-slate-700 p-2">Detroit</td>
     </tr>
   </tbody>
 </table>
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
------
+<input type="email" class="form-input w-full px-4 py-3 rounded">
 
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
+<select class="form-select w-full px-4 py-3 rounded">
+  <option>Corporate event</option>
+  <option>Wedding</option>
+  <option>Birthday</option>
+  <option>Other</option>
+</select>
+
+<input type="checkbox" class="form-checkbox rounded text-pink-500" />
+
+
+<table class="w-full table-auto border-collapse border border-slate-500 rounded">
+  <thead>
+    <tr>
+      <th class="text-left p-2">Song</th>
+      <th class="text-left p-2">Artist</th>
+      <th class="text-left p-2">Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="p-2">The Sliding Mr. Bones (Next Stop, Pottersville)</td>
+      <td class="p-2">Malcolm Lockyer</td>
+      <td class="p-2">1961</td>
+    </tr>
+    <tr>
+      <td class="p-2">Witchy Woman</td>
+      <td class="p-2">The Eagles</td>
+      <td class="p-2">1972</td>
+    </tr>
+    <tr>
+      <td class="p-2">Shining Star</td>
+      <td class="p-2">Earth, Wind, and Fire</td>
+      <td class="p-2">1975</td>
+    </tr>
+  </tbody>
+</table>

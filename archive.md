@@ -3,7 +3,9 @@ layout: default
 title: Archive
 ---
 
-# Archive
+<header class="mb-10 py-4 border-y border-[#222]">
+    <h2 class="mb-1 leading-4">{{ page.title }}</h2>
+</header>
 
 Browse all posts by month and year.
 

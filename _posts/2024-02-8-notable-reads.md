@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Notable reads
-category: Reading
+category: post
+tags: Reading
 permalink: 'notable-reads'
 ---
 

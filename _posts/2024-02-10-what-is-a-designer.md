@@ -1,7 +1,8 @@
 ---
 layout: post
 title: What is a designer
-category: Design
+category: post
+tags: Design
 permalink: 'what-is-a-designer'
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Beyond familiar
-category: Observation
+category: post
+tags: Observation
 permalink: 'beyond-familiar'
 ---
 

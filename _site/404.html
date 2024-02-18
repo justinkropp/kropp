@@ -10,7 +10,6 @@
       404: Page not found &middot; Justin Kropp
     
   </title>
-
   <link rel="stylesheet" href="/styles.css">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/apple-touch-icon-precomposed.png">
   <link rel="shortcut icon" href="/assets/favicon.ico">
@@ -34,19 +33,17 @@
 </head>
 
 
-  <body id="top" class="antialiased h-full bg-black text-sm text-white font-mono">
-
-    <div class="w-full min-h-dvh p-10">
-
+  <body id="top" class="antialiased h-full bg-gray-200 dark:bg-black text-sm text-[#333] dark:text-[#ccc] font-mono">
+    <div class="w-full min-h-dvh p-10 ">
       <header class="flex justify-between mb-10">
-        <h1 class="">
-          <a href="/" class="text-white" title="Home">Justin Kropp</a>
+        <h1 class="uppercase text-xs tracking-[.1rem] leading-4">
+          <a href="/" class="text-[#666] hover:text-[#333] dark:text-[#666] dark:hover:text-[#fff]" title="Home">Justin Kropp</a>
         </h1>
         <nav class="flex">
-          <ul class="flex gap-6">
-            <li><a href="/about/" class="text-[#999] hover:text-white transition-all">About</a></li>
-            <!-- <li><a href="/" class="text-[#999] hover:text-white transition-all">Projects</a></li> -->
-            <li><a href="https://photos.justinkropp.com" class="text-[#999] hover:text-white transition-all">Photos</a></li>
+          <ul class="flex gap-6 uppercase text-xs tracking-[.1rem] leading-4">
+            <!-- <li><a href="/profile/" class="text-[#666] dark:text-[#666] hover:text-[#333] dark:hover:text-[#fff] transition-all">Profile</a></li>
+            <li><a href="/projects/" class="text-[#666] dark:text-[#666] hover:text-[#333] dark:hover:text-[#fff] transition-all">Projects</a></li> -->
+            <li><a href="https://photos.justinkropp.com" class="text-[#666] dark:text-[#666] dark:hover:text-[#fff] hover:text-[#333] transition-all">Photos</a></li>
           </ul>
         </nav>
       </header>
@@ -59,13 +56,19 @@
 
       </main>
 
-      <footer class="flex justify-between mt-10">
-          <p>&copy; <time datetime="2024-02-11T20:46:14-05:00">2024</time>. All rights reserved.</p>
-          <p><a href="#top">Top</a></p>
-      </footer>
+      <footer class="flex justify-between items-center mt-10">
+        <p class="text-[#666] dark:text-[#444]">&copy; <time datetime="2024-02-18T16:44:06-05:00">2024</time>. All rights reserved.</p>
+        <div class="flex gap-1 bg-black/[.05] dark:bg-[#222] p-[2px] rounded-full">
+
+        <svg class="moon p-1 cursor-pointer w-[24px] h-[24px] rounded-full opacity-50" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+
+        <svg class="sun p-1 cursor-pointer w-[24px] h-[24px] rounded-full opacity-50" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+
+        </div>
+    </footer>
 
     </div>
 
-    
+    <script src="/themeswitcher.js"></script> 
   </body>
 </html>

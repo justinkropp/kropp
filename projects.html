@@ -1,0 +1,17 @@
+---
+layout: page
+title: Projects
+---
+
+<section class="w-full">
+<ul class="list-none m-0 p-0 grid grid-cols-3 gap-5">
+    {% for post in site.categories.project %}
+        <li class="">
+        {% if post.url %}
+        <a href="{{ post.url }}" class="">{% if post.featured-image %}{% include post-featured-image.html
+        image=post.featured-image alt=post.featured-image-alt %}{% endif %}</a>
+        {% endif %}
+        </li>
+    {% endfor %}
+</ul>
+</section>
