@@ -3,7 +3,7 @@ layout: post
 title: Example content
 category: post
 tags: Markup
-published: false
+published: true
 permalink: 'example-content'
 ---
 

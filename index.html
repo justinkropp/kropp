@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
@@ -11,6 +11,7 @@ title: Home
           <h2 class="w-6/12 text-[#333] dark:text-[#fff] font-bold">{{ post.title }}</h2>
           <p class="w-3/12">{{ post.tags }}</p>
           <p class="w-2/12" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B" }}</p>
+          <p class="w-1/12 text-right" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</p>
         </a>
         {% endif %}
     {% endfor %}

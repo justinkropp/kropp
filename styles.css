@@ -5,6 +5,31 @@
 @tailwind components;
 @tailwind utilities;
 
+#grid-container {
+    width: 100vw;
+    min-height: 100vh;
+    position: relative;
+    display: flex;
+    &:after,
+    &:before {
+        position: absolute;
+        content: "";
+        width: 100%;
+        height: 100%;
+        top: 0;
+    }
+    &:before {
+        background: radial-gradient(circle,rgba(2,0,36,0) 0,var(--gray1) 100%);
+        z-index: 2;
+    }
+    &:after {
+        background-image: url(/assets/grid.svg);
+        z-index: -1;
+        opacity: .5;
+        filter: unset;
+    }
+}
+
 .display-none {
     @apply opacity-100;
     background: rgba(0, 0, 0, .15);
