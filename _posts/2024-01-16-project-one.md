@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Project three
+title: Project one
 category: project
 tags: Project
 published: true
-permalink: 'project-three'
+permalink: 'project-one'
 featured-image: fpo.png
 ---
 
-<figure class="mb-10 p-10 border dark:border-[#222] border-[#ccc] bg-[#ccc] dark:bg-[#151515] rounded-lg bg-center bg-gradient-to-b from-gray-200 to-gray-200 dark:from-[#151515] dark:to-[#181818]">
-    <img class="w-full rounded drop-shadow-xl" src="/assets/fpo.png" alt="" />
+<figure class="mb-10 p-10 border dark:border-[#151515] border-[#ccc] rounded-lg">
+    <img class="w-full rounded mb-5" src="/assets/fpo.png" alt="" />
+    <figcaption class="text-[#666] text-xs text-center">Corporis ipsum qui laboriosam dignissimos eum voluptatibus.</figcaption>
 </figure>
 
 <article class="max-w-xl m-auto leading-6">
@@ -18,8 +19,9 @@ featured-image: fpo.png
     <p>Deleniti suscipit nihil at aut a. Magni optio laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates voluptatibus molestias expedita. Doloremque eos dolor in ut velit quod aut.</p>
 </article>
 
-<figure class="mb-10 p-10 border dark:border-[#222] border-[#ccc] bg-[#151515] rounded-lg bg-center bg-gradient-to-b from-[#151515] to-[#181818]">
-    <img class="w-full rounded drop-shadow-xl" src="/assets/fpo.png" alt="" />
+<figure class="mb-10 p-10 border border-[#151515] rounded-lg">
+    <img class="w-full rounded mb-5" src="/assets/fpo.png" alt="" />
+    <figcaption class="text-[#666] text-xs text-center">Corporis ipsum qui laboriosam dignissimos eum voluptatibus.</figcaption>
 </figure>
 
 <article class="max-w-xl m-auto leading-6">
@@ -28,9 +30,9 @@ featured-image: fpo.png
     <p>Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates voluptatibus molestias expedita. Doloremque eos dolor in ut velit quod aut.</p>
 </article>
 
-<figure class="grid grid-cols-2 gap-10 mb-10 p-10 border dark:border-[#222] border-[#ccc] dark:bg-[#151515] rounded-lg bg-center bg-gradient-to-b from-[#151515] to-[#181818]">
-    <img class="w-full rounded drop-shadow-xl" src="/assets/fpo.png" alt="" />
-    <img class="w-full rounded drop-shadow-xl" src="/assets/fpo.png" alt="" />
+<figure class="grid grid-cols-2 gap-10 mb-10 p-10 border border-[#151515] rounded-lg">
+    <img class="w-full rounded" src="/assets/fpo.png" alt="" />
+    <img class="w-full rounded" src="/assets/fpo.png" alt="" />
 </figure>
 
 <article class="max-w-xl m-auto leading-6">

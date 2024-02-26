@@ -3,8 +3,8 @@
 
   {% include head.html %}
 
-  <body id="top" class="antialiased h-full bg-gray-200 dark:bg-black text-sm text-[#333] dark:text-[#ccc] font-mono">
-    <div class="w-full min-h-dvh p-10 ">
+  <body id="top" class="antialiased h-full bg-gray-200 dark:bg-[#111] text-sm text-[#333] dark:text-[#ccc] font-mono">
+    <div id="bg-grid" class="w-full min-h-dvh p-10">
       <header class="flex justify-between mb-10">
         <h1 class="uppercase text-xs tracking-[.1rem] leading-4">
           <a href="{{ site.baseurl }}/" class="text-[#666] hover:text-[#333] dark:text-[#666] dark:hover:text-[#fff]" title="Home">{{ site.title }}</a>
@@ -14,6 +14,7 @@
             <li><a href="/profile/" class="text-[#666] dark:text-[#666] hover:text-[#333] dark:hover:text-[#fff] transition-all">Profile</a></li>
             <li><a href="/projects/" class="text-[#666] dark:text-[#666] hover:text-[#333] dark:hover:text-[#fff] transition-all">Projects</a></li>
             <li><a href="https://photos.justinkropp.com" class="text-[#666] dark:text-[#666] dark:hover:text-[#fff] hover:text-[#333] transition-all">Photos</a></li>
+            <li><a href="/" class="text-[#666] dark:text-[#666] dark:hover:text-[#fff] hover:text-[#333] transition-all">Resources</a></li>
           </ul>
         </nav>
       </header>

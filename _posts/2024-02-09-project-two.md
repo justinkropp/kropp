@@ -2,7 +2,8 @@
 layout: page
 title: Project two
 category: project
-tags: Project
+tags:
+    - Design
 published: true
 permalink: 'project-two'
 featured-image: fpo.png

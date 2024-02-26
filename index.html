@@ -3,19 +3,29 @@ layout: home
 title: Home
 ---
 
-
+  
 <section class="">
-    {% for post in site.categories.post %}
-        {% if post.url %}
-        <a href="{{ post.url }}" class="flex justify-between py-5 border-b border-[#ccc] hover:border-[#333]  dark:border-[#222] dark:hover:border-[#fff] transition-all text-[#666] hover:text-[#333] dark:text-[#555] dark:hover:text-[#999]">
-          <h2 class="w-6/12 text-[#333] dark:text-[#fff] font-bold">{{ post.title }}</h2>
-          <p class="w-3/12">{{ post.tags }}</p>
-          <p class="w-2/12" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B" }}</p>
-          <p class="w-1/12 text-right" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</p>
-        </a>
-        {% endif %}
-    {% endfor %}
-  </section>
+{% for post in site.posts %}
+    {% if post.url %}
+
+<a href="{{ post.url }}" class="flex justify-between py-5 border-b gap-5 border-[#ccc] hover:border-[#333]  dark:border-[#222] dark:hover:border-[#666] transition-all text-[#666] hover:text-[#333] dark:text-[#555] dark:hover:text-[#999] cursor-pointer ">
+
+<h2 class="w-4/12 text-[#333] dark:text-[#fff] font-medium">{{ post.title }}</h2>
+
+<p class="w-4/12">{% if post.featured-image %}{% include post-featured-image.html
+image=post.featured-image alt=post.featured-image-alt %}{% endif %}</p>
+
+<p class="w-2/12">{{ post.tags }}</p>
+
+<p class="w-1/12" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b" }}</p>
+
+<p class="w-1/12 text-right" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</p>
+
+</a>
+
+    {% endif %}
+{% endfor %}
+</section>
 
 <!-- <p>{{ post.excerpt }}</p> -->
 <!-- <p>{{ post.category }}</p> -->
