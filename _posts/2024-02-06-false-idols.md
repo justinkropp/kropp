@@ -12,9 +12,10 @@ Our profession -- design (web, product, etc) -- has its idols. Folks we look up 
 
 Seldom do we get to meet them and even more seldom do we get to work alongside them. We only know the image that we've abstracted from what we've seen at conference talks, interviews online, or perhaps in podcasts they host or have been guests on. The constructed image is illusory at best.
 
-> It is unwise to seek personal acquaintance with people whom one has regarded with high esteem, as they often fail to fulfill one's expectations, resulting in disappointment.
-— ancient proverb
-> 
+<blockquote cite="" class="border-l-4 border-[#fff] pl-10 my-10">
+    <p class="-indent-[.525rem]">"It is unwise to seek personal acquaintance with people whom one has regarded with high esteem, as they often fail to fulfill one's expectations, resulting in disappointment."</p>
+<footer class="text-[#999]">— ancient proverb</footer> 
+</blockquote>
 
 One hundred percent this.
 
@@ -24,6 +25,7 @@ When I got to know him, I realized that those things I admired about him were mo
 
 To say I was disappointed would be an understatement. But this disappointment is on me. I made the mistake of not only putting his work on a pedestal, I put him there too. And that's not fair. We are never our work, I hope, and never should be.
 
-> Your profession is not your personality. Reducing yourself to any single characteristic, whether it be your title or your job performance, is a deeply damaging act.
-— Arthur C. Brooks
->
+<blockquote cite="" class="border-l-4 border-[#fff] pl-10 my-10">
+    <p class="-indent-[.525rem]">"Your profession is not your personality. Reducing yourself to any single characteristic, whether it be your title or your job performance, is a deeply damaging act."</p>
+<footer class="text-[#999]">— Arthur C. Brooks</footer> 
+</blockquote>

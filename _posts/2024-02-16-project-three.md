@@ -2,7 +2,9 @@
 layout: page
 title: Project three
 category: project
-tags: Project
+tags:
+    - Project
+    - Type
 published: true
 permalink: 'project-three'
 featured-image: fpo.png
