@@ -900,26 +900,11 @@ select {
 .w-full {
   width: 100%;
 }
-.max-w-64 {
-  max-width: 16rem;
+.max-w-sm {
+  max-width: 24rem;
 }
 .max-w-xl {
   max-width: 36rem;
-}
-.max-w-72 {
-  max-width: 18rem;
-}
-.max-w-2xl {
-  max-width: 42rem;
-}
-.max-w-lg {
-  max-width: 32rem;
-}
-.max-w-md {
-  max-width: 28rem;
-}
-.max-w-sm {
-  max-width: 24rem;
 }
 .grow {
   flex-grow: 1;
@@ -1111,6 +1096,9 @@ select {
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
 }
+.pb-5 {
+  padding-bottom: 1.25rem;
+}
 .pl-10 {
   padding-left: 2.5rem;
 }
@@ -1139,29 +1127,19 @@ select {
   font-size: 0.875rem;
   line-height: 1.25rem;
 }
-.text-xs {
-  font-size: 0.75rem;
-  line-height: 1rem;
-}
-.text-lg {
-  font-size: 1.125rem;
-  line-height: 1.75rem;
-}
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
 }
 .font-bold {
   font-weight: 700;
 }
 .font-medium {
   font-weight: 500;
-}
-.font-light {
-  font-weight: 300;
-}
-.font-extralight {
-  font-weight: 200;
 }
 .uppercase {
   text-transform: uppercase;
@@ -1172,23 +1150,11 @@ select {
 .leading-6 {
   line-height: 1.5rem;
 }
-.leading-tight {
-  line-height: 1.25;
-}
-.leading-snug {
-  line-height: 1.375;
-}
-.leading-3 {
-  line-height: .75rem;
+.leading-7 {
+  line-height: 1.75rem;
 }
 .leading-5 {
   line-height: 1.25rem;
-}
-.leading-8 {
-  line-height: 2rem;
-}
-.leading-7 {
-  line-height: 1.75rem;
 }
 .tracking-\[\.1rem\] {
   letter-spacing: .1rem;
@@ -1205,13 +1171,17 @@ select {
   --tw-text-opacity: 1;
   color: rgb(153 153 153 / var(--tw-text-opacity));
 }
-.text-\[\#fff\] {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-}
 .text-pink-500 {
   --tw-text-opacity: 1;
   color: rgb(236 72 153 / var(--tw-text-opacity));
+}
+.text-\[\#eee\] {
+  --tw-text-opacity: 1;
+  color: rgb(238 238 238 / var(--tw-text-opacity));
+}
+.text-\[\#fff\] {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 .antialiased {
   -webkit-font-smoothing: antialiased;
