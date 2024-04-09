@@ -4,6 +4,7 @@ title: Joe Stewart
 category: post
 tag: Interview
 permalink: 'joe-stewart'
+published: true
 ---
 
 **[Work & Co](http://justinkropp.com/2016/03/09/joe-stewart/) has built up an already impressive list of accomplishments — everything from the company leadership, to the culture, to the body of work. What are you most proud of so far?**

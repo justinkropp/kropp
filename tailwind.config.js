@@ -10,7 +10,8 @@ module.exports = {
     darkMode: 'class',
     theme: {
       fontFamily: {
-        mono: ['GeistMono', 'monospace']
+        mono: ['GeistMono', 'monospace'],
+        sans: ['HelveticaNeue', 'Helvetica Neue', 'Helvetica'],
       },
 
       extend: {

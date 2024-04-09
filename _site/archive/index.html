@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 
-  <head>
+<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -37,34 +37,59 @@
 </head>
 
 
-  <body id="top" class="antialiased h-full bg-gray-200 dark:bg-[#111] text-sm text-[#333] dark:text-[#ccc] font-mono">
-    <div id="bg-grid" class="w-full min-h-dvh p-10">
-      <header class="flex justify-between mb-10 pb-5 border-b dark:border-[#222]">
-        <h1 class="uppercase text-xs tracking-[.1rem] leading-4">
-          <a href="/" class="text-[#666] hover:text-[#333] dark:text-[#666] dark:hover:text-[#fff]" title="Home">Justin Kropp</a>
-        </h1>
-        <nav class="flex">
-          <ul class="flex gap-6 uppercase text-xs tracking-[.1rem] leading-4">
-            <li><a href="/profile/" class="text-[#666] dark:text-[#666] hover:text-[#333] dark:hover:text-[#fff] transition-all">Profile</a></li>
-            <li><a href="/projects/" class="text-[#666] dark:text-[#666] hover:text-[#333] dark:hover:text-[#fff] transition-all">Projects</a></li>
-            <li><a href="https://photos.justinkropp.com" class="text-[#666] dark:text-[#666] dark:hover:text-[#fff] hover:text-[#333] transition-all">Photos</a></li>
-            <li><a href="/resources/" class="text-[#666] dark:text-[#666] dark:hover:text-[#fff] hover:text-[#333] transition-all">Resources</a></li>
-            <li><a href="/newsletter/" class="text-[#666] dark:text-[#666] dark:hover:text-[#fff] hover:text-[#333] transition-all">Newsletter</a></li>
-          </ul>
-        </nav>
-      </header>
+<body id="top" class="antialiased h-dvh bg-[#090909] text-white font-sans text-lg">
 
-      <main>
+<div class="flex flex-col justify-between w-full min-h-full p-10">
+
+  <header class="flex justify-between pb-20">
+    <h1 class="">
+      <a href="/" class="" title="Home">Justin Kropp</a>
+    </h1>
+    <ul class="flex gap-8">
+        <li><a href="/profile/" class="text-[#666] hover:text-white transition-all">Profile</a></li>
+        <li><a href="/notes/" class="text-[#666] hover:text-white transition-all">Notes</a></li>
+        <li><a href="/writing/" class="text-[#666] hover:text-white transition-all">Writing</a></li>
+        <li><a href="/feed/" class="text-[#666] hover:text-white transition-all">Feed</a></li>
+        <li><a href="/projects/" class="text-[#666] hover:text-white transition-all">Projects</a></li>
+        <li><a href="https://photos.justinkropp.com" class="text-[#666] hover:text-white transition-all">Photos</a></li>
+    </ul>
+</header>
+
+    <main class="flex flex-col h-full">
         <header class="mb-10 py-4 border-y border-[#222]">
     <h2 class="mb-1 leading-4">Archive</h2>
 </header>
 
 <p>Browse all posts by month and year.</p>
 
-<h2>February 2024</h2>
+<h2>April 2024</h2>
 <ul>
     
+      <li><a href="/project-fource">Project four</a></li>
+    
+      <li><a href="/feed-four">Feed four</a></li>
+    
       <li><a href="/project-three">Project three</a></li>
+    
+      <li><a href="/feed-three">Feed Three</a></li>
+    
+      <li><a href="/feed-two">Feed Two</a></li>
+    
+      <li><a href="/feed-one">Feed One</a></li>
+    
+  </ul>
+
+<h2>March 2024</h2>
+<ul>
+    
+      <li><a href="/note">Note</a></li>
+    
+      <li><a href="/example-note">Example note</a></li>
+    
+  </ul>
+
+<h2>February 2024</h2>
+<ul>
     
       <li><a href="/joe-stewart">Joe Stewart</a></li>
     
@@ -77,8 +102,6 @@
       <li><a href="/beyond-familiar">Beyond familiar</a></li>
     
       <li><a href="/project-two">Project two</a></li>
-    
-      <li><a href="/notable-reads">Notable reads</a></li>
     
       <li><a href="/false-idols">False Idols</a></li>
     
@@ -103,21 +126,18 @@
   </ul>
 
 
-      </main>
+    </main>
 
-      <footer class="flex justify-between items-center mt-10">
-        <p class="text-[#666] dark:text-[#444]">&copy; <time datetime="2024-03-05T20:08:34-05:00">2024</time>. All rights reserved.</p>
-        <div class="flex gap-1 bg-black/[.05] dark:bg-[#222] p-[2px] rounded-full">
+  <footer class="flex flex-row justify-between pt-20">
+    <p class="leading-[24px]">
+        <a href="#" class="w-[24px] h-[24px] bg-[#FE7338] block rounded-full"></a>
+    </p>
+    <p class=""><a href="#top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-up-circle"><circle cx="12" cy="12" r="10"></circle><polyline points="16 12 12 8 8 12"></polyline><line x1="12" y1="16" x2="12" y2="8"></line></svg>
+    </a></p>
+</footer>
 
-        <svg class="moon p-1 cursor-pointer w-[24px] h-[24px] rounded-full opacity-50" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+</div>
 
-        <svg class="sun p-1 cursor-pointer w-[24px] h-[24px] rounded-full opacity-50" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
-
-        </div>
-    </footer>
-
-    </div>
-
-    <script src="/themeswitcher.js"></script> 
-  </body>
+</body>
 </html>

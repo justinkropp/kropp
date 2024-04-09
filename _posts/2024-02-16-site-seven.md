@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Project three
+title: Site Seven
 category: project
 tags:
-    - Project
-    - Type
-published: true
+    - Identity
+published: false
 permalink: 'project-three'
-featured-image: fpo.png
+featured-image: siteseven-featured.png
 ---
 
 <figure class="mb-10 p-10 border dark:border-[#222] border-[#ccc] bg-[#ccc] dark:bg-[#151515] rounded-lg bg-center bg-gradient-to-b from-gray-200 to-gray-200 dark:from-[#151515] dark:to-[#181818]">
-    <img class="w-full rounded drop-shadow-xl" src="/assets/fpo.png" alt="" />
+    <img class="w-full rounded drop-shadow-xl" src="/assets/siteseven-featured.png" alt="" />
 </figure>
 
 <article class="max-w-xl m-auto leading-6">

@@ -4,6 +4,7 @@ title: Beyond familiar
 category: post
 tags: Observation
 permalink: 'beyond-familiar'
+published: true
 ---
 
 I recently visited Chattanooga in Tennessee. It's my hometown and a trip there is never easy for me. There is always a point during my visits when I become emotional as slivers of my past — the good and the bad — resurface. There are parts of the city that conjure up memories that I'd rather not revisit: painful breakups, a car accident, and familial drama. But there are also locations that provide an overwhelming source of happiness and fondness — the hundreds of beautiful days I spent outside rock-climbing with friends, the amazing job I had at an outdoor shop during high-school and college, and my first kiss with Erin.

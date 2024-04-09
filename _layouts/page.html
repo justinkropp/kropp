@@ -2,23 +2,9 @@
 layout: default
 ---
 
-<header class="flex justify-between mb-10 py-4 border-y border-[#ccc] dark:border-[#222]">
-    <h2 class="leading-4 font-bold">{{ page.title }}</h2>
-    <!-- <p class="leading-4">{{ page.tags }}</p> -->
-    <ul class="flex gap-4">
-    {% for tag in page.tags %}
-    {% assign tag_slug = tag | slugify: "raw" %}
-    <li class="leading-4">
-        <a class="text-[.75rem] uppercase tracking-[.1rem] font-medium px-2 py-1 text-[#999] bg-[#282828] rounded-md"
-        href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
-        rel="category tag">
-        {{ tag }}
-        </a>
-    </li>
-    {% endfor %}
-    </ul>
-</header>
 
 <section class="">
-    {{ content }}
+
+{{ content }}
+
 </section>

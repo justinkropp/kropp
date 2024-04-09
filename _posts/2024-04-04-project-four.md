@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Project two
+title: Project four
 category: project
 tags:
     - Design
 published: true
-permalink: 'project-two'
+permalink: 'project-fource'
 featured-image: project.png
 ---
 

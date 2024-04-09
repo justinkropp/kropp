@@ -4,6 +4,7 @@ title: What is a designer
 category: post
 tags: Design
 permalink: 'what-is-a-designer'
+published: true
 ---
 
 I’ve been re-reading Norman Potter’s eloquent [What Is a Designer](http://amzn.to/2BGFDDf). There are a handful of books that I revisit periodically to both refresh my perspective on and rekindle the relationship with my discipline — graphic design.

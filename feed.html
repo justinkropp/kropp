@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Projects
+title: Feed
 ---
 
-<section class="grid grid-cols-2 gap-8">
-    {% for post in site.categories.project %}
+
+<section class="grid grid-cols-3 gap-8">
+    {% for post in site.categories.feed %}
         {% if post.url %}
         
     <a href="{{ post.url }}" class="rounded-md transition-all">

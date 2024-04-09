@@ -4,6 +4,7 @@ title: Duane King
 category: post
 tag: Interview
 permalink: 'duane-king'
+published: true
 ---
 
 *[Duane](http://moonshot.ooo/) is a Consultant and Creative Director based in Portland, Oregon who champions the aesthetics of ideas. Driven by curiosity, he explores and creates what is possible with imagination, wit, and clarity.*

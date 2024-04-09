@@ -4,6 +4,7 @@ title: False Idols
 category: post
 tags: Design
 permalink: 'false-idols'
+published: true
 ---
 
 Every profession has its version of celebrity practitioner. Some professions have many, while others seem to just have a small handful that make the rounds for years in publications, conferences, panels, etc. In graphic design, Stefan Sagmeister was a the closest thing we had to a rock star, and he remained the exalted one for years. In standards-based web design it was Jeffrey Zeldman. Flash? Joshua Davis. In digital product design there seem to be countless that tread at the top, in part due to the many disciplines that are squished together and encapsulated in the term "product design".

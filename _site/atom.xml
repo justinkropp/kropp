@@ -4,7 +4,7 @@
  <title>Justin Kropp</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-03-05T20:08:34-05:00</updated>
+ <updated>2024-04-08T20:26:16-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Justin Kropp</name>
@@ -13,40 +13,114 @@
 
  
  <entry>
+   <title>Project four</title>
+   <link href="http://localhost:4000/project-fource"/>
+   <updated>2024-04-04T00:00:00-04:00</updated>
+   <id>http://localhost:4000/project-four</id>
+   <content type="html">&lt;figure class=&quot;mb-10&quot;&gt;
+    &lt;img src=&quot;/assets/project.png&quot; class=&quot;w-full rounded-[4px]&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p class=&quot;max-w-2xl&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
+
+&lt;figure class=&quot;my-10&quot;&gt;
+    &lt;img src=&quot;/assets/project.png&quot; class=&quot;w-full rounded-[4px]&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p class=&quot;max-w-2xl mb-5&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
+
+&lt;p class=&quot;max-w-2xl&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
+
+&lt;figure class=&quot;my-10&quot;&gt;
+    &lt;img src=&quot;/assets/project.png&quot; class=&quot;w-full rounded-[4px]&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p class=&quot;max-w-2xl mb-5&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Feed four</title>
+   <link href="http://localhost:4000/feed-four"/>
+   <updated>2024-04-04T00:00:00-04:00</updated>
+   <id>http://localhost:4000/feed-four</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/feed.png&quot; class=&quot;mb-2 rounded-[4px]&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;max-w-xl&quot;&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Project three</title>
    <link href="http://localhost:4000/project-three"/>
-   <updated>2024-02-16T00:00:00-05:00</updated>
+   <updated>2024-04-03T00:00:00-04:00</updated>
    <id>http://localhost:4000/project-three</id>
-   <content type="html">&lt;figure class=&quot;mb-10 p-10 border dark:border-[#222] border-[#ccc] bg-[#ccc] dark:bg-[#151515] rounded-lg bg-center bg-gradient-to-b from-gray-200 to-gray-200 dark:from-[#151515] dark:to-[#181818]&quot;&gt;
-    &lt;img class=&quot;w-full rounded drop-shadow-xl&quot; src=&quot;/assets/fpo.png&quot; alt=&quot;&quot; /&gt;
+   <content type="html">&lt;figure class=&quot;mb-10&quot;&gt;
+    &lt;img src=&quot;/assets/project.png&quot; class=&quot;w-full rounded-[4px]&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;article class=&quot;max-w-xl m-auto leading-6&quot;&gt;
-    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;p class=&quot;max-w-2xl&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
 
-    &lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates voluptatibus molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
-&lt;/article&gt;
-
-&lt;figure class=&quot;mb-10 p-10 border dark:border-[#222] border-[#ccc] bg-[#151515] rounded-lg bg-center bg-gradient-to-b from-[#151515] to-[#181818]&quot;&gt;
-    &lt;img class=&quot;w-full rounded drop-shadow-xl&quot; src=&quot;/assets/fpo.png&quot; alt=&quot;&quot; /&gt;
+&lt;figure class=&quot;my-10&quot;&gt;
+    &lt;img src=&quot;/assets/project.png&quot; class=&quot;w-full rounded-[4px]&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;article class=&quot;max-w-xl m-auto leading-6&quot;&gt;
-    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;p class=&quot;max-w-2xl mb-5&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
 
-    &lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates voluptatibus molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
-&lt;/article&gt;
+&lt;p class=&quot;max-w-2xl&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
 
-&lt;figure class=&quot;grid grid-cols-2 gap-10 mb-10 p-10 border dark:border-[#222] border-[#ccc] dark:bg-[#151515] rounded-lg bg-center bg-gradient-to-b from-[#151515] to-[#181818]&quot;&gt;
-    &lt;img class=&quot;w-full rounded drop-shadow-xl&quot; src=&quot;/assets/fpo.png&quot; alt=&quot;&quot; /&gt;
-    &lt;img class=&quot;w-full rounded drop-shadow-xl&quot; src=&quot;/assets/fpo.png&quot; alt=&quot;&quot; /&gt;
+&lt;figure class=&quot;my-10&quot;&gt;
+    &lt;img src=&quot;/assets/project.png&quot; class=&quot;w-full rounded-[4px]&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;article class=&quot;max-w-xl m-auto leading-6&quot;&gt;
-    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
-
-    &lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
-&lt;/article&gt;
+&lt;p class=&quot;max-w-2xl mb-5&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Feed Three</title>
+   <link href="http://localhost:4000/feed-three"/>
+   <updated>2024-04-03T00:00:00-04:00</updated>
+   <id>http://localhost:4000/feed-three</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/feed.png&quot; class=&quot;mb-2 rounded-[4px]&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;max-w-xl&quot;&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Feed Two</title>
+   <link href="http://localhost:4000/feed-two"/>
+   <updated>2024-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/feed-two</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/feed.png&quot; class=&quot;mb-2 rounded-[4px]&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;max-w-xl&quot;&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Feed One</title>
+   <link href="http://localhost:4000/feed-one"/>
+   <updated>2024-04-01T00:00:00-04:00</updated>
+   <id>http://localhost:4000/feed</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/feed.png&quot; class=&quot;mb-2 rounded-[4px]&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;max-w-xl&quot;&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Note</title>
+   <link href="http://localhost:4000/note"/>
+   <updated>2024-03-31T00:00:00-04:00</updated>
+   <id>http://localhost:4000/note</id>
+   <content type="html">&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Example note</title>
+   <link href="http://localhost:4000/example-note"/>
+   <updated>2024-03-30T00:00:00-04:00</updated>
+   <id>http://localhost:4000/example-note</id>
+   <content type="html">&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
 </content>
  </entry>
  
@@ -409,65 +483,25 @@
    <link href="http://localhost:4000/project-two"/>
    <updated>2024-02-09T00:00:00-05:00</updated>
    <id>http://localhost:4000/project-two</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Notable reads</title>
-   <link href="http://localhost:4000/notable-reads"/>
-   <updated>2024-02-08T00:00:00-05:00</updated>
-   <id>http://localhost:4000/notable-reads</id>
-   <content type="html">&lt;p&gt;What follows is a compilation of select reads from this past year — books and articles. My reading habits are more sporadic with regards to articles I find online. I much prefer to read from physical books as much as possible and I generally aim for a book a week.&lt;/p&gt;
+   <content type="html">&lt;figure class=&quot;mb-10&quot;&gt;
+    &lt;img src=&quot;/assets/project.png&quot; class=&quot;w-full rounded-[4px]&quot; /&gt;
+&lt;/figure&gt;
 
-&lt;h2 id=&quot;books&quot;&gt;Books&lt;/h2&gt;
+&lt;p class=&quot;max-w-2xl&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/3GzfRjX&quot;&gt;Radical Technologies, The Design of Everyday&lt;/a&gt;&lt;/em&gt; Life by Adam Greenfield&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/48fb3Mr&quot;&gt;Future Ethics&lt;/a&gt;&lt;/em&gt; by Cennydd Bowles&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/3RC4myg&quot;&gt;Continuous Discovery Habits&lt;/a&gt;&lt;/em&gt; by Teresa Torres&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/46TLnUc&quot;&gt;Surrounded by Idiots&lt;/a&gt;&lt;/em&gt; by Thomas Erikson&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/483PUVu&quot;&gt;Mismatch&lt;/a&gt;&lt;/em&gt; by Kat Holmes&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/47Tvmz0&quot;&gt;Zag&lt;/a&gt;&lt;/em&gt; by Marty Neumeier&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/3RG215K&quot;&gt;On Revolution&lt;/a&gt;&lt;/em&gt; by Hannah Arendt&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/3GF4k2k&quot;&gt;Too Late to Awaken&lt;/a&gt;&lt;/em&gt; by Slavoj Žižek&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/3NoHvE2&quot;&gt;Churchill: Walking with Destiny&lt;/a&gt;&lt;/em&gt; by Andrew Roberts&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/4ae9UXa&quot;&gt;The Art of Leadership: Small Things, Done Well&lt;/a&gt;&lt;/em&gt; by Michael Lopp&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/48e1P2K&quot;&gt;Gödel, Escher, Bach: An Eternal Golden Braid&lt;/a&gt;&lt;/em&gt; by Douglas R Hofstadter&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/41pcJ3B&quot;&gt;Superintelligence: Paths, Dangers, Strategies&lt;/a&gt;&lt;/em&gt; by Nick Bostrom&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/4aiGN4U&quot;&gt;Ikigai: The Japanese Secret to a Long and Happy Life&lt;/a&gt;&lt;/em&gt; by Héctor García&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/4acMoKa&quot;&gt;Diffusion of Innovations, 5th Edition&lt;/a&gt;&lt;/em&gt; by Everett M. Rogers&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/47SMGEf&quot;&gt;The Missionary Position: Mother Teresa in Theory and Practice&lt;/a&gt;&lt;/em&gt; by Christopher Hitchens&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/41oUgnW&quot;&gt;Artificial Intelligence: A Guide for Thinking Humans&lt;/a&gt;&lt;/em&gt; by Melanie Mitchell&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/3tbLkWa&quot;&gt;Josef Müller-Brockmann Suttl: Pioneer of Swiss Graphic Design&lt;/a&gt;&lt;/em&gt; by Josef Müller-Brockmann&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/3RE6VQG&quot;&gt;The Graphic Design Reader&lt;/a&gt;&lt;/em&gt; by Teal Triggs&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/3TmKkJs&quot;&gt;About Graphic Design&lt;/a&gt;&lt;/em&gt; by Richard Hollis&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/4atojz1&quot;&gt;A Pattern Language: Towns, Buildings, Construction&lt;/a&gt;&lt;/em&gt; by Christopher Alexander&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/4a7Loa2&quot;&gt;The Timeless Way of Building&lt;/a&gt;&lt;/em&gt; by Christopher Alexander&lt;/li&gt;
-  &lt;li&gt;*&lt;a href=&quot;https://amzn.to/3uW91Cv&quot;&gt;Signs: An Introduction to Semiotics*&lt;/a&gt; by Thomas Sebeok&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/3t9J6Xr&quot;&gt;Elements of Semiology&lt;/a&gt;&lt;/em&gt; by Roland Barthes&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/3GDTs4Q&quot;&gt;Course in General Linguistics&lt;/a&gt;&lt;/em&gt; by Ferdinand de Saussure&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/47SSH3N&quot;&gt;Mortality&lt;/a&gt;&lt;/em&gt; by Christopher Hitchens&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/48bFe71&quot;&gt;From Bacteria to Bach and Back: The Evolution of Minds&lt;/a&gt;&lt;/em&gt; by Daniel c. Dennett&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/4aeAP50&quot;&gt;A Universe from Nothing: Why There Is Something Rather than Nothing&lt;/a&gt;&lt;/em&gt; by Lawrence Krauss&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/479k2hj&quot;&gt;The Greatest Story Ever Told-So Far: Why Are We Here?&lt;/a&gt;&lt;/em&gt; by Lawrence Krauss&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/3GDTQjO&quot;&gt;The Demon-Haunted World: Science as a Candle in the Dark&lt;/a&gt;&lt;/em&gt; by Carl Sagan&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/41fk8CD&quot;&gt;Devil Rides Out&lt;/a&gt;&lt;/em&gt; by Dennis Wheatley&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://amzn.to/3TklLg7&quot;&gt;Design as Art&lt;/a&gt;&lt;/em&gt; by Bruno Munari&lt;/li&gt;
-&lt;/ol&gt;
+&lt;figure class=&quot;my-10&quot;&gt;
+    &lt;img src=&quot;/assets/project.png&quot; class=&quot;w-full rounded-[4px]&quot; /&gt;
+&lt;/figure&gt;
 
-&lt;h2 id=&quot;articles&quot;&gt;Articles&lt;/h2&gt;
+&lt;p class=&quot;max-w-2xl mb-5&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://annehelen.substack.com/p/this-will-change-the-way-you-think&quot;&gt;&lt;em&gt;This Will Change the Way You Think About Ambition&lt;/em&gt;&lt;/a&gt; by Anne Helen Peterson&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://danluu.com/writing-non-advice/&quot;&gt;&lt;em&gt;Some thoughts on writing&lt;/em&gt;&lt;/a&gt; by Dan Luu&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://drmaciver.substack.com/p/people-dont-work-as-much-as-you-think&quot;&gt;&lt;em&gt;People don’t work as much as you think&lt;/em&gt;&lt;/a&gt; by David R. Maciver&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.rkg.blog/desperation-induced-focus.php&quot;&gt;&lt;em&gt;Desperation-Induced Focus&lt;/em&gt;&lt;/a&gt; by Ravi Gupta&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.theatlantic.com/family/archive/2022/08/how-being-in-nature-improves-health-happiness/671040/&quot;&gt;&lt;em&gt;To Get Out of Your Head, Get Out of Your House&lt;/em&gt;&lt;/a&gt; by Arthur C. Brooks&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peterattiamd.com/the-straight-dope-on-cholesterol-part-i/&quot;&gt;&lt;em&gt;The straight dope on cholesterol&lt;/em&gt;&lt;/a&gt; by Peter Attia (read the entire series)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ben-evans.com/benedictevans/2023/10/5/unbundling-ai&quot;&gt;&lt;em&gt;Unbundling AI&lt;/em&gt;&lt;/a&gt; by Benedict Evans&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.scientificamerican.com/article/ai-is-becoming-a-band-aid-over-bad-broken-tech-industry-design-choices/&quot;&gt;&lt;em&gt;AI Is Becoming a Band-Aid over Bad, Broken Tech Industry Design Choices&lt;/em&gt;&lt;/a&gt; by Ed Zitron&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p class=&quot;max-w-2xl&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
+
+&lt;figure class=&quot;my-10&quot;&gt;
+    &lt;img src=&quot;/assets/project.png&quot; class=&quot;w-full rounded-[4px]&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p class=&quot;max-w-2xl mb-5&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
 </content>
  </entry>
  
@@ -546,13 +580,17 @@
    <link href="http://localhost:4000/jomo"/>
    <updated>2024-02-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/jomo</id>
-   <content type="html">&lt;p&gt;Like many of us I tend to pass some of my downtime or in-between time by browsing social media or mindlessly ingesting a palette of headlines from &lt;em&gt;insert news org here&lt;/em&gt;. Last year I realized that my social media habits were simply a surrogate for a feeling of connectedness to the world and what was going on in the small circles of interest I followed. The news simply served as a way for me to navigate making sense of what was going on in the world at large. Both habits — social media and the news — were a kind of participatory activity predicated on FOMO. If a friend asked “did you hear about so and so” I could respond — confidently — yes, and then we could riff. Or if, while thumbing down my Instagram feed, I got sucked into some video from Huberman or Attia I would feel like it was time well spent because I had gained some new knowledge about morning sunlight or some bio-marker that I really need to get checked for.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Like many of us I tend to pass some of my downtime or in-between time by browsing social media or mindlessly ingesting a palette of headlines from *insert news org here*. Last year I realized that my social media habits were simply a surrogate for a feeling of connectedness to the world and what was going on in the small circles of interest I followed. The news simply served as a way for me to navigate making sense of what was going on in the world at large. Both habits — social media and the news — were a kind of participatory activity predicated on FOMO. If a friend asked “did you hear about so and so” I could respond — confidently — yes, and then we could riff. Or if, while thumbing down my Instagram feed, I got sucked into some video from Huberman or Attia I would feel like it was time well spent because I had gained some new knowledge about morning sunlight or some bio-marker that I really need to get checked for.&lt;/p&gt;
+
+&lt;figure class=&quot;my-10 p-4 border border-[#222] rounded-md&quot;&gt;
+    &lt;img src=&quot;/assets/fpo.png&quot; class=&quot;rounded-[4px]&quot; /&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;If not kept in check, these behaviors move stealthily from intentional to aimless and eat up more and more of our time. Anything for that quick hit of dopamine.&lt;/p&gt;
 
 &lt;p&gt;Months ago I made the decision to get off all social media and stop seeking out knowing what’s going on in the world. I needed to free up some brain space as well as some time. I’ve since noticed a striking difference in how calm my mind feels and how much space I now have to dedicate to things that are actually important to me. I’ve realized that none of what I was seeking through those channels was neither important nor contributing to a better me.&lt;/p&gt;
 
-&lt;p&gt;Now, instead of FOMO, I take pride JOMO: joy of missing out. When a friend now asks “did you hear about &lt;em&gt;some shit&lt;/em&gt;”, I love saying: “nope”.&lt;/p&gt;
+&lt;p&gt;Now, instead of FOMO, I take pride JOMO: joy of missing out. When a friend now asks “did you hear about *some shit*”, I love saying: “nope”.&lt;/p&gt;
 
 &lt;p&gt;Try it for a day. Then a couple days. Once you hit a week, kudos. Now just keep that going. You’re not missing out on anything. I promise.&lt;/p&gt;
 </content>
@@ -563,7 +601,25 @@
    <link href="http://localhost:4000/project-one"/>
    <updated>2024-01-16T00:00:00-05:00</updated>
    <id>http://localhost:4000/project-one</id>
-   <content type="html">
+   <content type="html">&lt;figure class=&quot;mb-10&quot;&gt;
+    &lt;img src=&quot;/assets/project.png&quot; class=&quot;w-full rounded-[4px]&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p class=&quot;max-w-2xl&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
+
+&lt;figure class=&quot;my-10&quot;&gt;
+    &lt;img src=&quot;/assets/project.png&quot; class=&quot;w-full rounded-[4px]&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p class=&quot;max-w-2xl mb-5&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
+
+&lt;p class=&quot;max-w-2xl&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
+
+&lt;figure class=&quot;my-10&quot;&gt;
+    &lt;img src=&quot;/assets/project.png&quot; class=&quot;w-full rounded-[4px]&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p class=&quot;max-w-2xl mb-5&quot;&gt;Distinctio asperiores est placeat occaecati omnis autem. Accusamus sit quia voluptas et voluptatum quis unde quis sunt quia qui quasi quia. Similique officiis nulla fugiat. Id reprehenderit molestiae voluptas quas pariatur quasi incidunt consequuntur aperiam eligendi libero. Iusto ipsam est deleniti maiores eveniet provident ea at sunt sed magni. Labore delectus quia sint dolor quia iusto occaecati ullam molestias minima.&lt;/p&gt;
 </content>
  </entry>
  

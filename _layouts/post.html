@@ -2,30 +2,12 @@
 layout: default
 ---
 
-<header class="flex justify-between mb-10 py-4 border-y border-[#ccc] dark:border-[#222]">
-    <h2 class="leading-4 font-bold">{{ page.title }}</h2>
-    <p datetime="{{ page.date | date_to_xmlschema }}" class="leading-4 text-[#666]">{{ page.date | date_to_string }}</p>
-</header>
-
-
-<article class="">
-  <div class="max-w-xl leading-6">
-    {{ content }}
-  </div>
-</article>
-
-<!-- {% if site.related_posts != empty %}
-<aside class="related">
-  <h3>Related posts</h3>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</aside>
-{% endif %} -->
+<section class="max-w-2xl">
+    <header class="mb-10">
+        <h2 class="leading-4 mb-2">{{ page.title }}</h2>
+        <time class="leading-4 text-[#666]">{{ page.date | date: "%b %Y" }}</time>
+    </header>
+    <div class="">
+        {{ page.content }}
+    </div>
+</section>

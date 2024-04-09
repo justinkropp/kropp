@@ -4,6 +4,7 @@ title: Notable reads
 category: post
 tags: Reading
 permalink: 'notable-reads'
+published: false
 ---
 
 What follows is a compilation of select reads from this past year — books and articles. My reading habits are more sporadic with regards to articles I find online. I much prefer to read from physical books as much as possible and I generally aim for a book a week. 

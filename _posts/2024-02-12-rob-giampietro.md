@@ -4,6 +4,7 @@ title: Rob Giampietro
 category: post
 tag: Interview
 permalink: 'rob-giampietro'
+published: true
 ---
 
 **Hi Rob. Can you give our viewers a bit of history about yourself (where you went to school, where you’ve worked, and where you are now)?**
