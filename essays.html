@@ -1,29 +1,20 @@
 ---
-layout: home
-title: Home
+layout: page
+title: Essays
 ---
 
-<section class="max-w-xl mb-20 text-xl leading-8 font-headlinelight">
-    <p>Eos totam sed rerum voluptates dicta perspiciatis aut rerum expedita repudiandae consequatur voluptatum et. Accusamus dolorem id qui quam pariatur. Aut qui illo et dolores sunt laborum odit minima iusto. Numquam iste molestias sequi id.</p>
-</section>
-  
 <section class="">
-{% for post in site.posts %}
-{% if post.url %}
-
+{% for post in site.categories.post %}
+    {% if post.url %}
+    
 <a href="{{ post.url }}" class="group flex py-3 border-b border-[#ddd]">
 <h2 class="w-6/12 m-0 font-headlinelight text-xl text-[#333] group-hover:text-[#111] transition-all group-hover:translate-x-2">{{ post.title }}</h2>
 <p class="w-4/12 m-0 font-sanslight text-[#999] group-hover:text-[#111] transition-all">{{ post.tags }}</p>
 <p class="w-1/12 m-0 font-sanslight text-[#999] group-hover:text-[#111] transition-all" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b" }}</p>
 <p class="w-1/12 m-0 font-sanslight text-[#999] group-hover:text-[#111] transition-all text-right" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</p>
 </a>
-
-{% endif %}
+    
+    {% endif %}
 {% endfor %}
 </section>
 
-<!-- <p>{{ post.excerpt }}</p> -->
-<!-- <p>{{ post.category }}</p> -->
-<!-- <p>{{ post.tags }}</p> -->
-<!-- <p class="w-4/12">{% if post.featured-image %}{% include post-featured-image.html
-    image=post.featured-image alt=post.featured-image-alt %}{% endif %}</p> -->

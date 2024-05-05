@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Justin Kropp</title>
+ <title>Kropp</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-04-08T20:26:16-04:00</updated>
+ <updated>2024-05-05T10:55:23-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Justin Kropp</name>
@@ -107,11 +107,13 @@
  </entry>
  
  <entry>
-   <title>Note</title>
+   <title>Why no Twitter?</title>
    <link href="http://localhost:4000/note"/>
    <updated>2024-03-31T00:00:00-04:00</updated>
-   <id>http://localhost:4000/note</id>
-   <content type="html">&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+   <id>http://localhost:4000/no-twitter</id>
+   <content type="html">&lt;p&gt;I’m not on Twitter. I joined a few years ago with the intent of just dabbling. As a product designer I was curious about the user experience; as a digital citizen I was interested in exploring the content on the platform. That is to say, could it provide any value that would make it sticky. If it did provide any value it was lost on me. Even in the browsing of circles related to my own discipline, career, and interests it was lacking. What I did find was posturing, toxic positivity, rather unlettered positions, and — in the case of almighty tech — an exercise in mutual masturbation and LFG tropes.&lt;/p&gt;
+
+&lt;p&gt;No thank you. I’ll stick with books and solitude.&lt;/p&gt;
 </content>
  </entry>
  

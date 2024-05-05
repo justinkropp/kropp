@@ -3,9 +3,9 @@
 
 {% include head.html %}
 
-<body id="top" class="antialiased h-dvh bg-[#090909] text-white font-sans text-lg">
+<body id="top" class="antialiased h-dvh bg-[#eee] text-[#333] font-sans text-lg">
 
-<div class="flex flex-col justify-between w-full min-h-full p-10">
+<div class="flex flex-col justify-between w-full min-h-full px-52 py-20">
 
   {% include header.html %}
 
@@ -17,5 +17,19 @@
 
 </div>
 
+<script>
+
+// add event listener on load
+window.addEventListener('load', function() {
+
+// scroll to top
+document.querySelector('.js-scroll-to-top').addEventListener('click', function(e) {
+  e.preventDefault();
+    document.querySelector('#top').scrollIntoView({ behavior: 'smooth' });
+  });
+
+});
+
+</script>
 </body>
 </html>

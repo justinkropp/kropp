@@ -7,12 +7,12 @@ title: Notes
 {% for post in site.categories.note %}
     {% if post.url %}
     
-    <a href="{{ post.url }}" class="flex -mx-3 p-3 rounded-md hover:bg-[#111] transition-all">
-    <h2 class="w-6/12 m-0">{{ post.title }}</h2>
-    <p class="w-4/12 m-0 text-[#666]">{{ post.tags }}</p>
-    <p class="w-1/12 m-0 text-[#666]" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b" }}</p>
-    <p class="w-1/12 m-0 text-[#666] text-right" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</p>
-    </a>
+<a href="{{ post.url }}" class="group flex py-3 border-b border-[#ddd]">
+<h2 class="w-6/12 m-0 font-headlinelight text-xl text-[#333] group-hover:text-[#111] transition-all group-hover:translate-x-2">{{ post.title }}</h2>
+<p class="w-4/12 m-0 font-sanslight text-[#999] group-hover:text-[#111] transition-all">{{ post.tags }}</p>
+<p class="w-1/12 m-0 font-sanslight text-[#999] group-hover:text-[#111] transition-all" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b" }}</p>
+<p class="w-1/12 m-0 font-sanslight text-[#999] group-hover:text-[#111] transition-all text-right" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</p>
+</a>
     
     {% endif %}
 {% endfor %}

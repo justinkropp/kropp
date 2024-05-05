@@ -11,7 +11,12 @@ module.exports = {
     theme: {
       fontFamily: {
         mono: ['GeistMono', 'monospace'],
-        sans: ['HelveticaNeue', 'Helvetica Neue', 'Helvetica'],
+        serif: ['Tiempos-Text'],
+        headline: ['Tiempos-Headline'],
+        logotype: ['Soehne-Breit'],
+        headlinelight: ['Tiempos-Headline-Light'],
+        sans: ['Soehne-Buch', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica'],
+        sanslight: ['Soehne-Leicht'],
       },
 
       extend: {
