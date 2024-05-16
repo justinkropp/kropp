@@ -1,29 +1,37 @@
----
-layout: home
-title: Home
----
+<!doctype html>
+<html class="no-js" lang="en">
 
-<section class="max-w-xl mb-20 text-xl leading-8 font-headlinelight">
-    <p>Eos totam sed rerum voluptates dicta perspiciatis aut rerum expedita repudiandae consequatur voluptatum et. Accusamus dolorem id qui quam pariatur. Aut qui illo et dolores sunt laborum odit minima iusto. Numquam iste molestias sequi id.</p>
-</section>
-  
-<section class="">
-{% for post in site.posts %}
-{% if post.url %}
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kropp</title>
+  <link rel="stylesheet" href="css/output.css">
+  <meta name="description" content="No one cares about what you are building as much as you.">
 
-<a href="{{ post.url }}" class="group flex py-3 border-b border-[#ddd]">
-<h2 class="w-6/12 m-0 font-headlinelight text-xl text-[#333] group-hover:text-[#111] transition-all group-hover:translate-x-2">{{ post.title }}</h2>
-<p class="w-4/12 m-0 font-sanslight text-[#999] group-hover:text-[#111] transition-all">{{ post.tags }}</p>
-<p class="w-1/12 m-0 font-sanslight text-[#999] group-hover:text-[#111] transition-all" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b" }}</p>
-<p class="w-1/12 m-0 font-sanslight text-[#999] group-hover:text-[#111] transition-all text-right" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</p>
-</a>
+  <meta property="og:title" content="Kropp">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="justinkropp.com">
+  <meta property="og:image" content="">
+  <meta property="og:image:alt" content="">
 
-{% endif %}
-{% endfor %}
-</section>
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.png">
 
-<!-- <p>{{ post.excerpt }}</p> -->
-<!-- <p>{{ post.category }}</p> -->
-<!-- <p>{{ post.tags }}</p> -->
-<!-- <p class="w-4/12">{% if post.featured-image %}{% include post-featured-image.html
-    image=post.featured-image alt=post.featured-image-alt %}{% endif %}</p> -->
+  <link rel="manifest" href="site.webmanifest">
+  <meta name="theme-color" content="#eeeeee">
+</head>
+
+<body class="bg-black antialiased">
+
+  <section class="w-full h-dvh">
+    <section class="flex justify-center items-center w-full h-full p-20">
+      <p class="max-w-96 text-white text-3xl font-headlinelight">No one cares about what you are building as much as you.</p>
+    </section>
+  </section>
+
+  <script src="js/app.js"></script>
+
+</body>
+
+</html>
