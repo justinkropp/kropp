@@ -24,4 +24,11 @@
       font-display: swap;
       src: url(/assets/test-tiempos-text-regular.woff2) format('woff2');
   }
+  @font-face {
+    font-family: 'Soehne-Breit';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/assets/test-soehne-breit-halbfett.woff2) format('woff2');
+}
 }

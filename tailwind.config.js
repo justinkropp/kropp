@@ -6,7 +6,7 @@ module.exports = {
       serif: ['Tiempos-Text'],
       headline: ['Tiempos-Headline'],
       headlinelight: ['Tiempos-Headline-Light'],
-
+      logotype: ['Soehne-Breit'],
     },
     extend: {},
   },
