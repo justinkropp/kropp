@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="home">
+
+<div class="wrapper">
+
+  <main>
+      {{ content }}
+  </main>
+
+</div>
+
+<script>
+// add event listener on load
+window.addEventListener('load', function() {
+// scroll to top
+document.querySelector('.js-scroll-to-top').addEventListener('click', function(e) {
+  e.preventDefault();
+    document.querySelector('#top').scrollIntoView({ behavior: 'smooth' });
+  });
+});
+</script>
+</body>
+</html>

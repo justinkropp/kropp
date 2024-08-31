@@ -1,0 +1,19 @@
+---
+layout: page
+title: Studio
+---
+
+
+
+<section class="projects">
+{% for post in site.categories.project %}
+{% if post.url %}
+        
+<a href="{{ post.url }}">
+    {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
+</a>
+        
+{% endif %}
+{% endfor %}
+
+</section>

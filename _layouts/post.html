@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<section class="post">
+
+<header>
+    <h2 >{{ page.title }}</h2>
+</header>
+
+
+{{ page.content }}
+
+
+<footer class="post-meta">
+    <p class="flourish">&ast;&ast;&ast;</p>
+    <!-- <p>{{ page.tags }}</p>
+    <p datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%b %Y" }}</p> -->
+</footer>
+
+<section class="post-index">
+    <header>
+        <h2>Recent Writing</h2>
+    </header>
+    <ul>
+        {% for post in site.posts %}
+        {% if post.url %}
+        <li>
+        <a href="{{ post.url }}">
+            <h2>{{ post.title }}</h2>
+            <div class="spacer-rule"></div>
+            <div class="meta">
+                <p>{{ post.tags }}</p>
+                <p>/</p>
+                <p datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %Y" }}</p>
+            </div>
+        </a>
+        </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+    <footer>
+        <a href="/writing/">View All Writing</a>
+    </footer>
+</section>
+
+</section>

@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Justin Kropp</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-08-31T08:13:06-04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Justin Kropp</name>
+   <email>justinkropp@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Familial</title>
+   <link href="http://localhost:4000/familial"/>
+   <updated>2024-08-08T00:00:00-04:00</updated>
+   <id>http://localhost:4000/familial</id>
+   <content type="html">&lt;article&gt;
+
+&lt;p&gt;I stumbled across this the other day from 37signals:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://37signals.com/35/&quot;&gt;Companies aren’t families&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;When companies say they’re a family, it’s a veiled way of demanding total sacrifice. Nights, weekends, whatever it takes for, you know, “the family”. But great companies aren’t fake families — they’re allies of real families. They don’t eat into people’s personal time, they don’t ask people to dial-in during vacations, and they don’t push them to work Sundays to prep for the meeting on Monday.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I think we’ve all dealt with some flavor of this throughout our careers, more so if you’ve worked for an agency, and yet even more if you did so in the early 2000s as I did. In those days the veil wasn’t even there; it was just flat out expected. All-nighters were the norm, and you’d be lucky to  have your effort acknowledged.&lt;/p&gt;
+
+&lt;p&gt;I moved into the tech space in 2006 and have heard variations of the “family bit” at almost every employer — usually during a company all hands or one of the requisite team offsites.&lt;/p&gt;
+
+&lt;p&gt;On two occasions the sentiment was fast-followed by a significant round of layoffs. The irony was palpable, as was the vacuousness of the statement. Nothing more than lip service uttered from a pulpit of platitudes. There are exceptions, of course, but these seem to be the outliers.&lt;/p&gt;
+
+&lt;p&gt;Don’t misunderstand — the first time you hear it, it has the affect of making you feel invited, reassured, even protected. A seduction of a kind. But after the same utterances are offered at the third, fourth, and fifth company, you realize there is a playbook. It’s a kind of tech vernacular that pervades the leadership culture inside of these monolithic orgs.&lt;/p&gt;
+
+&lt;p&gt;I don’t think the intent is of the Machiavellian sort. Rather, I think it’s more like a shallow attempt at asking you to suspend your professional principles — your integrity — for the sake of keeping things moving and meeting deadlines without much pushback. It can sounds something like this:&lt;/p&gt;
+
+&lt;p&gt;“&lt;em&gt;We wouldn’t ask so much of you if we didn’t truly value what you bring to the table.&lt;/em&gt;”&lt;/p&gt;
+
+&lt;p&gt;But what it means is this:&lt;/p&gt;
+
+&lt;p&gt;“&lt;em&gt;We ask so much of you because we don’t value you as a person with a life and other interests. You’re an asset, and we can replace you. You need to perform — at all costs.&lt;/em&gt;”&lt;/p&gt;
+
+&lt;p&gt;It sounds harsh, but I think if anyone tries to convince you otherwise they’re intentionally spraying shit or just plain delusional. &lt;/p&gt;
+
+&lt;p&gt;This isn’t to suggest that you can’t be close with your colleagues; that you can’t admire, care for, value, or respect them. You can and you should — if warranted. What I’m saying is that you don’t need to feel like you’re a part of a family in a work setting, and your employer doesn’t need to make you feel part of a family.&lt;/p&gt;
+
+&lt;p&gt;Your &lt;em&gt;family&lt;/em&gt; is your family. Your work colleagues are just that: work colleagues.&lt;/p&gt;
+
+&lt;p&gt;I’ve found that — and it’s what I’m arguing here — what is needed from a great employer is rather straightforward:&lt;/p&gt;
+
+&lt;ol&gt;
+    &lt;li&gt;A professional work environment centered around the work that needs to be done&lt;/li&gt;
+    &lt;li&gt;Challenging projects that help you learn and grow&lt;/li&gt;
+    &lt;li&gt;Trust from your manager(s) that you can do the job you were hired to do&lt;/li&gt;
+    &lt;li&gt;The acknowledgment that work is only *part* of what you do and that you hold other interests and passions&lt;/li&gt;
+    &lt;li&gt;Some recognition that the work you are doing is not, in fact, changing the world (spoiler, it’s not). Unless, of course, you are engaged in work that is in fact literally changing the world, but this category of work is such a small percentage of what’s actually being done&lt;/li&gt;
+    &lt;li&gt;Colleagues that you get along with and respect, but not necessarily people that you would like to hang out with&lt;/li&gt;
+    &lt;li&gt;Respectful pay, good benefits, and a supportive work/life balance (the US is historically shit at the this last one) &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And that’s kind of it — give or take. Depending on your professional experience thus far, this list may feel like a lot of big asks, but honestly it’s table stakes.&lt;/p&gt;
+
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Doucheine</title>
+   <link href="http://localhost:4000/doucheine"/>
+   <updated>2024-08-06T00:00:00-04:00</updated>
+   <id>http://localhost:4000/doucheine</id>
+   <content type="html">&lt;article&gt;
+
+&lt;h3&gt;12 for 10 cents&lt;/h3&gt;
+
+&lt;p&gt;The generally dispensable status of art and design, assigned by our consumer-minded culture, has allowed even the most naive bastard to recognize and revel in the quality of their personal creative vision. Uneducated designers and photographers permeate society and, like their Sunday Painter counterparts, cannot muster a fraction of the effort necessary to create anything of merit. The inordinate number of design agencies opened in recent years is a testament to our desire to communicate visually as well as our ignorance in believing everyone can do so. In the race for status and recognition, money and reputation, process has taken a backseat to pretense.&lt;/p&gt;
+
+&lt;p&gt;A fledgling minority still recognizes the importance of the process inherent to design‚ it is process, not product, that creates. Unfortunately, however, patience has been forfeited for immediate gratification and craft and thought have been superseded by contemporary trends.&lt;/p&gt;
+
+&lt;p&gt;In short: asinine expropriation is in vogue.&lt;/p&gt;
+
+&lt;p&gt;We at doucheine seek to subvert tradition‚ to unapologetically dismantle the regurgitation that so viciously pervades our industry. We abhor style, high-design‚ and the other atrocities being sold today within the confines of the style-houses that plague our industry.&lt;/p&gt;
+
+&lt;p&gt;We definitely Do Shine, but only while we Douche our Ine.&lt;/p&gt;
+
+&lt;p class=&quot;flourish&quot;&gt;&amp;ast;&amp;ast;&amp;ast;&lt;/p&gt;
+
+&lt;p&gt;I co-wrote this piece, a manifesto of sorts, years ago in Chicago while visiting a friend who, at the time, was finishing his degree in photography. We spent an evening eating pizza, smoking out in the bitter cold, and discussing the state of our respective disciplines. I’d been a practicing design professional for a few years at that point and had already developed a thickening patina of disillusionment and contempt for my profession. Perhaps it was the burnout from agency life. Maybe it was already there. I suspect the latter because I still feel the weight of that contempt, but it has shifted now to all that comes with working in tech. 
+
+&lt;blockquote&gt;
+    &lt;p&gt;In the race for status and recognition, money and reputation, process has taken a backseat to pretense.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+&lt;p&gt;What I felt was true 20 years ago in the design world holds true in the product design landscape of Silicon Valley and beyond. It’s penetrating and perverse. Admired and celebrated. And it’s an utter joke. “It” is the state of design in the digital product design landscape, and I’ve been a part of it for almost 15 years now. If I had to squish it into a review I’d describe it as self congratulatory mutual masturbation without any payoff.&lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;craft and thought have been superceded by contemporary trends&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+As true now as it was then.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Project Two</title>
+   <link href="http://localhost:4000/project-two"/>
+   <updated>2024-07-14T00:00:00-04:00</updated>
+   <id>http://localhost:4000/project-two</id>
+   <content type="html">&lt;article&gt;
+    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Project Three</title>
+   <link href="http://localhost:4000/project-three"/>
+   <updated>2024-07-14T00:00:00-04:00</updated>
+   <id>http://localhost:4000/project-three</id>
+   <content type="html">&lt;article&gt;
+    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Project One</title>
+   <link href="http://localhost:4000/project-one"/>
+   <updated>2024-07-14T00:00:00-04:00</updated>
+   <id>http://localhost:4000/project-one</id>
+   <content type="html">&lt;article&gt;
+    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Project Four</title>
+   <link href="http://localhost:4000/project-four"/>
+   <updated>2024-07-14T00:00:00-04:00</updated>
+   <id>http://localhost:4000/project-four</id>
+   <content type="html">&lt;article&gt;
+    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Example content</title>
+   <link href="http://localhost:4000/example-content"/>
+   <updated>2024-07-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/example-content</id>
+   <content type="html">&lt;article&gt;
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;blockquote cite=&quot;&quot;&gt;
+    &lt;p&gt;&quot;It is unwise to seek personal acquaintance with people whom one has regarded with high esteem, as they often fail to fulfill one&apos;s expectations, resulting in disappointment.&quot;&lt;/p&gt;
+&lt;footer&gt;— ancient proverb&lt;/footer&gt; 
+&lt;/blockquote&gt;
+
+&lt;article&gt;
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;h2&gt;H2 Headline&lt;/h2&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;h3&gt;H3 Headline&lt;/h3&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A note about opinions</title>
+   <link href="http://localhost:4000/note-opinions"/>
+   <updated>2024-05-23T00:00:00-04:00</updated>
+   <id>http://localhost:4000/note-opinions</id>
+   <content type="html">&lt;article&gt;
+    &lt;p&gt;Opinions are like assholes; everyone&apos;s got one.&lt;/p&gt;
+
+&lt;p&gt;This old adage has bee around for quite a while and comes in many different flavors (pardon the visual). While everyone is indeed entitled to &lt;em&gt;have&lt;/em&gt; an opinion, you don&apos;t &lt;em&gt;need&lt;/em&gt; to. Here&apos;s where I land &lt;em&gt;ye old position&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;If you&apos;re going to have an opinion, understand &lt;em&gt;why&lt;/em&gt; you hold it and be able to &lt;em&gt;defend&lt;/em&gt; it.&lt;/li&gt;
+&lt;li&gt;You &lt;strong&gt;do not&lt;/strong&gt; have to have an opinion. In fact, I&apos;d argue that holding no opinion should be your default.&lt;/li&gt;
+&lt;li&gt;Never volunteer yours; hold it until you are asked for it. &lt;em&gt;Think more. Talk less&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I&apos;ve found it to be quite liberating, when asked for my opinion on a particular matter, to state that I have none.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A note about rabbit</title>
+   <link href="http://localhost:4000/note-rabbit"/>
+   <updated>2024-05-20T00:00:00-04:00</updated>
+   <id>http://localhost:4000/note-rabbit</id>
+   <content type="html">&lt;article&gt;
+    &lt;p&gt;The &lt;a href=&quot;https://www.rabbit.tech/&quot;&gt;rabbit r1&lt;/a&gt; is marketed as a pocket companion, powered by rabbit os — a personalized operating system through a natural language interface. Bullshit. The rabbit r1 is a toy for &lt;a href=&quot;https://twitter.com/elonmusk&quot;&gt;adult children&lt;/a&gt; with excess disposable income and a paralyzing fear of missing out on the latest piece of tech; tech they need in order to keep up with the Joneses. Rather than producing innovative tech of merit, they opted to manufacture problems that don’t need to be solved. Rabbit has clearly earned a top spot in this club along with the likes of &lt;a href=&quot;https://humane.com/&quot;&gt;Humane&lt;/a&gt; and &lt;a href=&quot;https://teenage.engineering/&quot;&gt;teenage engineering&lt;/a&gt;.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A note about X</title>
+   <link href="http://localhost:4000/note-twitter"/>
+   <updated>2024-03-31T00:00:00-04:00</updated>
+   <id>http://localhost:4000/no-twitter</id>
+   <content type="html">&lt;article&gt;
+&lt;p&gt;I joined Twitter a few years ago with the intent of just flirting with the experience. I was curious about its user experience design and the range of content it offered. My biggest question was whether or not it could provide any value that would make it sticky. Long story short, I didn’t find any value. Even in the browsing of circles directly related to my own discipline, career, or interests it fell short. What I did find was brute posturing, ignorance masquerading as expertise, toxic positivity, rather unlettered assertions, and — in the case of almighty tech — an exercise in mutual masturbation and LFG tropes.&lt;/p&gt;
+
+&lt;p&gt;No thanks. I’ll stick with books and reticence.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What is a designer</title>
+   <link href="http://localhost:4000/what-is-a-designer"/>
+   <updated>2024-02-10T00:00:00-05:00</updated>
+   <id>http://localhost:4000/what-is-a-designer</id>
+   <content type="html">&lt;article&gt;
+&lt;p&gt;I&apos;ve been re-reading Norman Potter’s eloquent &lt;a href=&quot;http://amzn.to/2BGFDDf&quot;&gt;What Is a Designer&lt;/a&gt;. There are a handful of books that I revisit periodically to both refresh my perspective on and rekindle the relationship with my discipline — graphic design.&lt;/p&gt;
+
+&lt;p&gt;With each passing year this book has proven to be more and more imperative as a tool for young designers to use in exploring and shaping their practice. Potter positions design as a serious act of intellectual enquiry. The following passages always resonate with me in a profound way:&lt;/p&gt;
+
+&lt;h2&gt;On design education principles&lt;/h2&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;The reality factors in academic life may appear to derive less from studio project work, which is always imperfectly ‘real’, than from the discussion that surrounds such work, the exploration of angles of attack, and the slow take-up represented by the experience of community.&lt;/p&gt;
+    &lt;p&gt;&lt;em&gt;Design education must, by its nature, dig below the surface, and must at the outset be more concerned to clarify intentions than to get good results.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+&lt;h2&gt;On good design&lt;/h2&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;For the designer, good design is the generous and pertinent response to the full context of a design opportunity, whether large or small, and the quality of the outcome resides in a close and truthful correspondence between form and meaning. The meaning of a good garden spade is seen in its behavior, that it performs well; in its look and feel, its strength and required durability; in a directness of address through the simple expression of its function.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That last bit — &lt;em&gt;a directness of address through the simple expression of its function&lt;/em&gt;. So good. Adhering to this as a consistent and applied principle of digital product design could alleviate much of the ubiquity of atrocious user experiences.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>False Idols</title>
+   <link href="http://localhost:4000/false-idols"/>
+   <updated>2024-02-06T00:00:00-05:00</updated>
+   <id>http://localhost:4000/false-idols</id>
+   <content type="html">&lt;article&gt;
+&lt;p&gt;Every profession has its version of celebrity practitioner. Some professions have many, while others seem to just have a small handful that make the rounds for years in publications, conferences, panels, etc. In graphic design, Stefan Sagmeister was a the closest thing we had to a rock star, and he remained the exalted one for years. In standards-based web design it was Jeffrey Zeldman. Flash? Joshua Davis. In digital product design there seem to be countless that tread at the top, in part due to the many disciplines that are squished together and encapsulated in the term &quot;product design&quot;.&lt;/p&gt;
+
+
+&lt;p&gt;Our profession -- design (web, product, etc) -- has its idols. Folks we look up to for their design acumen and body of work, whether that work is applied or theoretical. It&apos;s only natural -- human nature even -- to place these practitioners we admire up on a pedestal.&lt;/p&gt;
+
+
+&lt;p&gt;Seldom do we get to meet them and even more seldom do we get to work alongside them. We only know the image that we&apos;ve abstracted from what we&apos;ve seen at conference talks, interviews online, or perhaps in podcasts they host or have been guests on. The constructed image is illusory at best.
+&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;blockquote cite=&quot;&quot; class=&quot;border-l-4 border-[#aaa] pl-10 my-10&quot;&gt;
+    &lt;p class=&quot;-indent-[.525rem]&quot;&gt;&quot;It is unwise to seek personal acquaintance with people whom one has regarded with high esteem, as they often fail to fulfill one&apos;s expectations, resulting in disappointment.&quot;&lt;/p&gt;
+&lt;footer class=&quot;text-[#999]&quot;&gt;— ancient proverb&lt;/footer&gt; 
+&lt;/blockquote&gt;
+
+&lt;article&gt;
+&lt;p&gt;One hundred percent this.&lt;/p&gt;
+
+&lt;p&gt;I recently had the opportunity to work alongside someone whose work and writing I had admired for some time. Probably the better part of a decade. I&apos;d read his book, watched his conference talks, and followed his growing body of work. He had an eloquent way of speaking about our craft as designers and could break down complex ideas into easy to digest chunks with what seemed like ease. He seemed like an affable dude.&lt;/p&gt; 
+
+&lt;p&gt;When I got to know him, I realized that those things I admired about him were more about the work and the approach to the work, and had nothing to do with the person. The person was an entirely different... experience.&lt;/p&gt;
+
+&lt;p&gt;To say I was disappointed would be an understatement. But this disappointment is on me. I made the mistake of not only putting his work on a pedestal, I put him there too. And that&apos;s not fair. We are never our work, I hope, and never should be.&lt;/p&gt;
+&lt;article&gt;
+
+&lt;blockquote cite=&quot;&quot; class=&quot;border-l-4 border-[#aaa] pl-10 my-10&quot;&gt;
+    &lt;p class=&quot;-indent-[.525rem]&quot;&gt;&quot;Your profession is not your personality. Reducing yourself to any single characteristic, whether it be your title or your job performance, is a deeply damaging act.&quot;&lt;/p&gt;
+&lt;footer class=&quot;text-[#999]&quot;&gt;— Arthur C. Brooks&lt;/footer&gt; 
+&lt;/blockquote&gt;
+&lt;/article&gt;&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Levity</title>
+   <link href="http://localhost:4000/levity"/>
+   <updated>2024-02-04T00:00:00-05:00</updated>
+   <id>http://localhost:4000/levity</id>
+   <content type="html">&lt;article&gt;
+&lt;p&gt;Some time ago I heard a comedian telling a story about friend who was describing what their day job was like, and this person described it as: &lt;em&gt;doing serious work for serious people seriously.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;All I could think of at the time was how uninspired that work must be. How exhausting it must be to slog through that kind of environment day after day.  After some reflection I realized that my own experience has taught me that this &lt;em&gt;state of being in the workplace&lt;/em&gt; is all too common.&lt;/p&gt;
+
+&lt;p&gt;Perhaps it&apos;s not directly analogous to the above, but I&apos;ve certainly worked on teams and under senior leadership that took their work all too seriously. &lt;/p&gt;
+
+&lt;p&gt;There seems to be a correlation between taking your work too seriously and a level of self importance that borders on delusions of grandeur. This parallel is especially rampant in Silicon Valley, where &quot;make a dent in the universe&quot; has been the mantra &lt;em&gt;de jure&lt;/em&gt; since the late ‘80s. &lt;/p&gt;
+
+&lt;p&gt;If that&apos;s the position you want to operate from, fine, but understand the reality of that perspective and the unintended consequences it can have for those working under its weight.&lt;/p&gt;
+
+&lt;p&gt;It can have a deleterious effect to the atmosphere in which the work is being done and the stakes of that work become artificially elevated. Over time this will erode morale.&lt;/p&gt;
+
+&lt;p&gt;A constant expression of importance can impede the ability to make sound product decisions that are grounded in reality (also something in short supply throughout the Bay Area).&lt;/p&gt;
+
+&lt;p&gt;A work culture like this will ultimately squeeze wit from the product and push levity out of the equation altogether.&lt;/p&gt;
+
+&lt;p&gt;A lack of levity will, at best, lead to burnout and, at worst, birth resentment. Both will degrade the quality of the work.&lt;/p&gt;
+
+&lt;h2&gt;Lead with levity&lt;/h2&gt;
+
+&lt;p&gt;Levity can be used as a guideline for how we approach our own work as well as how we ask other to approach theirs. It can provide the margin we need to take more risks and push the perimeter out a bit more.&lt;/p&gt;  
+
+&lt;p&gt;Levity frees us up to drop the pretension of product or service the company has socialized and just focus on doing good work.&lt;/p&gt;
+
+&lt;p&gt;We can look at the problems through a different shade lens and  with some wit or humor we can inject some emotion back into the product.&lt;/p&gt;
+
+&lt;p&gt;We can drop our shoulders and take safe harbor in knowing that what we’re actually building isn’t urgent or life changing, and that&apos;s okay.&lt;/p&gt;
+
+&lt;p&gt;We often do our best work when we execute small things really well. Those small things are always part of bigger things, and those bigger things will benefit from those small things being done with the utmost care, craft, and with a bit of levity behind it all.&lt;/p&gt;
+
+&lt;p&gt;Embracing levity will benefit your entire organization.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>JOMO</title>
+   <link href="http://localhost:4000/jomo"/>
+   <updated>2024-02-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/jomo</id>
+   <content type="html">&lt;p&gt;Like many of us I tend to pass some of my downtime or in-between time by browsing social media or mindlessly ingesting a palette of headlines from *insert news org here*. Last year I realized that my social media habits were simply a surrogate for a feeling of connectedness to the world and what was going on in the small circles of interest I followed. The news simply served as a way for me to navigate making sense of what was going on in the world at large. Both habits — social media and the news — were a kind of participatory activity predicated on FOMO. If a friend asked “did you hear about so and so” I could respond — confidently — yes, and then we could riff. Or if, while thumbing down my Instagram feed, I got sucked into some video from Huberman or Attia I would feel like it was time well spent because I had gained some new knowledge about morning sunlight or some bio-marker that I really need to get checked for.&lt;/p&gt;
+
+&lt;p&gt;If not kept in check, these behaviors move stealthily from intentional to aimless and eat up more and more of our time. Anything for that quick hit of dopamine.&lt;/p&gt;
+
+&lt;p&gt;Months ago I made the decision to get off all social media and stop seeking out knowing what’s going on in the world. I needed to free up some brain space as well as some time. I’ve since noticed a striking difference in how calm my mind feels and how much space I now have to dedicate to things that are actually important to me. I’ve realized that none of what I was seeking through those channels was neither important nor contributing to a better me.&lt;/p&gt;
+
+&lt;p&gt;Now, instead of FOMO, I take pride JOMO: joy of missing out. When a friend now asks “did you hear about *some shit*”, I love saying: “nope”.&lt;/p&gt;
+
+&lt;p&gt;Try it for a day. Then a couple days. Once you hit a week, kudos. Now just keep that going. You’re not missing out on anything. I promise.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
