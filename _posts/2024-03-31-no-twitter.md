@@ -1,7 +1,7 @@
 ---
-layout: note
+layout: post
 title: A note about X
-category: note
+category: post
 tags: Culture
 published: true
 permalink: 'note-twitter'

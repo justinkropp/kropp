@@ -5,6 +5,7 @@ category: post
 tags: Design
 permalink: 'what-is-a-designer'
 published: true
+excerpt: Söhne is the memory of Akzidenz-Grotesk framed through the reality of Helvetica. It captures the analogue materiality of “Standard Medium” used in Unimark's legendary wayfinding system for the NYC Subway.
 ---
 <article>
 <p>I've been re-reading Norman Potter’s eloquent <a href="http://amzn.to/2BGFDDf">What Is a Designer</a>. There are a handful of books that I revisit periodically to both refresh my perspective on and rekindle the relationship with my discipline — graphic design.</p>

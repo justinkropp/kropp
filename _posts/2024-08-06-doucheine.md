@@ -5,6 +5,7 @@ category: post
 tags: Culture
 permalink: 'doucheine'
 published: true
+excerpt: Söhne is the memory of Akzidenz-Grotesk framed through the reality of Helvetica. It captures the analogue materiality of “Standard Medium” used in Unimark's legendary wayfinding system for the NYC Subway.
 ---
 
 <article>
@@ -23,7 +24,7 @@ published: true
 
 <p class="flourish">&ast;&ast;&ast;</p>
 
-<p>I co-wrote this piece, a manifesto of sorts, years ago in Chicago while visiting a friend who, at the time, was finishing his degree in photography. We spent an evening eating pizza, smoking out in the bitter cold, and discussing the state of our respective disciplines. I’d been a practicing design professional for a few years at that point and had already developed a thickening patina of disillusionment and contempt for my profession. Perhaps it was the burnout from agency life. Maybe it was already there. I suspect the latter because I still feel the weight of that contempt, but it has shifted now to all that comes with working in tech. 
+<p>I co-wrote this piece, a manifesto of sorts, years ago in Chicago while visiting a friend who, at the time, was finishing his degree in photography. We spent an evening eating pizza, smoking out in the bitter cold, and discussing the state of our respective disciplines. I’d been a practicing design professional for a few years at that point and had already developed a thickening patina of disillusionment and contempt for my profession. Perhaps it was the burnout from agency life. Maybe it was already there. I suspect the latter because I still feel the weight of that contempt, but it has shifted now to all that comes with working in tech.
 
 <blockquote>
     <p>In the race for status and recognition, money and reputation, process has taken a backseat to pretense.</p>

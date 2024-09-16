@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Project Two
 category:
   - project
@@ -29,6 +29,15 @@ featured-image: fpo.png
   <figcaption>
     <p>Doloremque eos dolor in ut velit quod aut.</p>
   </figcaption>
+</figure>
+
+<article>
+    <p>Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.</p>
+</article>
+
+<figure class="grid">
+  <img src="./assets/fpo.png">
+  <img src="./assets/fpo.png">
 </figure>
 
 <article>

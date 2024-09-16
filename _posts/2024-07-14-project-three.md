@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Project Three
 category:
   - project

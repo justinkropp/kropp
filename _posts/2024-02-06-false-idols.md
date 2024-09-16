@@ -5,6 +5,7 @@ category: post
 tags: Design
 permalink: 'false-idols'
 published: true
+excerpt: Söhne is the memory of Akzidenz-Grotesk framed through the reality of Helvetica. It captures the analogue materiality of “Standard Medium” used in Unimark's legendary wayfinding system for the NYC Subway.
 ---
 
 <article>
@@ -20,13 +21,13 @@ published: true
 
 <blockquote cite="" class="border-l-4 border-[#aaa] pl-10 my-10">
     <p class="-indent-[.525rem]">"It is unwise to seek personal acquaintance with people whom one has regarded with high esteem, as they often fail to fulfill one's expectations, resulting in disappointment."</p>
-<footer class="text-[#999]">— ancient proverb</footer> 
+<footer class="text-[#999]">— ancient proverb</footer>
 </blockquote>
 
 <article>
 <p>One hundred percent this.</p>
 
-<p>I recently had the opportunity to work alongside someone whose work and writing I had admired for some time. Probably the better part of a decade. I'd read his book, watched his conference talks, and followed his growing body of work. He had an eloquent way of speaking about our craft as designers and could break down complex ideas into easy to digest chunks with what seemed like ease. He seemed like an affable dude.</p> 
+<p>I recently had the opportunity to work alongside someone whose work and writing I had admired for some time. Probably the better part of a decade. I'd read his book, watched his conference talks, and followed his growing body of work. He had an eloquent way of speaking about our craft as designers and could break down complex ideas into easy to digest chunks with what seemed like ease. He seemed like an affable dude.</p>
 
 <p>When I got to know him, I realized that those things I admired about him were more about the work and the approach to the work, and had nothing to do with the person. The person was an entirely different... experience.</p>
 
@@ -35,5 +36,5 @@ published: true
 
 <blockquote cite="" class="border-l-4 border-[#aaa] pl-10 my-10">
     <p class="-indent-[.525rem]">"Your profession is not your personality. Reducing yourself to any single characteristic, whether it be your title or your job performance, is a deeply damaging act."</p>
-<footer class="text-[#999]">— Arthur C. Brooks</footer> 
+<footer class="text-[#999]">— Arthur C. Brooks</footer>
 </blockquote>

@@ -6,6 +6,7 @@ category:
 tags: Markup
 published: true
 permalink: 'example-content'
+excerpt: Söhne is the memory of Akzidenz-Grotesk framed through the reality of Helvetica. It captures the analogue materiality of “Standard Medium” used in Unimark's legendary wayfinding system for the NYC Subway.
 featured-image: fpo.png
 ---
 
@@ -18,7 +19,7 @@ featured-image: fpo.png
 
 <blockquote cite="">
     <p>"It is unwise to seek personal acquaintance with people whom one has regarded with high esteem, as they often fail to fulfill one's expectations, resulting in disappointment."</p>
-<footer>— ancient proverb</footer> 
+<footer>— ancient proverb</footer>
 </blockquote>
 
 <article>

@@ -4,7 +4,7 @@
  <title>Justin Kropp</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-08-31T08:13:06-04:00</updated>
+ <updated>2024-09-16T07:41:34-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Justin Kropp</name>
@@ -23,10 +23,13 @@
 
 &lt;p&gt;&lt;a href=&quot;https://37signals.com/35/&quot;&gt;Companies aren’t families&lt;/a&gt;.&lt;/p&gt;
 
+&lt;/article&gt;
+
 &lt;blockquote&gt;
     &lt;p&gt;When companies say they’re a family, it’s a veiled way of demanding total sacrifice. Nights, weekends, whatever it takes for, you know, “the family”. But great companies aren’t fake families — they’re allies of real families. They don’t eat into people’s personal time, they don’t ask people to dial-in during vacations, and they don’t push them to work Sundays to prep for the meeting on Monday.&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;article&gt;
 &lt;p&gt;I think we’ve all dealt with some flavor of this throughout our careers, more so if you’ve worked for an agency, and yet even more if you did so in the early 2000s as I did. In those days the veil wasn’t even there; it was just flat out expected. All-nighters were the norm, and you’d be lucky to  have your effort acknowledged.&lt;/p&gt;
 
 &lt;p&gt;I moved into the tech space in 2006 and have heard variations of the “family bit” at almost every employer — usually during a company all hands or one of the requisite team offsites.&lt;/p&gt;
@@ -88,7 +91,7 @@
 
 &lt;p class=&quot;flourish&quot;&gt;&amp;ast;&amp;ast;&amp;ast;&lt;/p&gt;
 
-&lt;p&gt;I co-wrote this piece, a manifesto of sorts, years ago in Chicago while visiting a friend who, at the time, was finishing his degree in photography. We spent an evening eating pizza, smoking out in the bitter cold, and discussing the state of our respective disciplines. I’d been a practicing design professional for a few years at that point and had already developed a thickening patina of disillusionment and contempt for my profession. Perhaps it was the burnout from agency life. Maybe it was already there. I suspect the latter because I still feel the weight of that contempt, but it has shifted now to all that comes with working in tech. 
+&lt;p&gt;I co-wrote this piece, a manifesto of sorts, years ago in Chicago while visiting a friend who, at the time, was finishing his degree in photography. We spent an evening eating pizza, smoking out in the bitter cold, and discussing the state of our respective disciplines. I’d been a practicing design professional for a few years at that point and had already developed a thickening patina of disillusionment and contempt for my profession. Perhaps it was the burnout from agency life. Maybe it was already there. I suspect the latter because I still feel the weight of that contempt, but it has shifted now to all that comes with working in tech.
 
 &lt;blockquote&gt;
     &lt;p&gt;In the race for status and recognition, money and reputation, process has taken a backseat to pretense.&lt;/p&gt;
@@ -132,6 +135,15 @@ As true now as it was then.&lt;/p&gt;
   &lt;figcaption&gt;
     &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+    &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;grid&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;article&gt;
@@ -252,7 +264,7 @@ As true now as it was then.&lt;/p&gt;
 
 &lt;blockquote cite=&quot;&quot;&gt;
     &lt;p&gt;&quot;It is unwise to seek personal acquaintance with people whom one has regarded with high esteem, as they often fail to fulfill one&apos;s expectations, resulting in disappointment.&quot;&lt;/p&gt;
-&lt;footer&gt;— ancient proverb&lt;/footer&gt; 
+&lt;footer&gt;— ancient proverb&lt;/footer&gt;
 &lt;/blockquote&gt;
 
 &lt;article&gt;
@@ -374,13 +386,13 @@ As true now as it was then.&lt;/p&gt;
 
 &lt;blockquote cite=&quot;&quot; class=&quot;border-l-4 border-[#aaa] pl-10 my-10&quot;&gt;
     &lt;p class=&quot;-indent-[.525rem]&quot;&gt;&quot;It is unwise to seek personal acquaintance with people whom one has regarded with high esteem, as they often fail to fulfill one&apos;s expectations, resulting in disappointment.&quot;&lt;/p&gt;
-&lt;footer class=&quot;text-[#999]&quot;&gt;— ancient proverb&lt;/footer&gt; 
+&lt;footer class=&quot;text-[#999]&quot;&gt;— ancient proverb&lt;/footer&gt;
 &lt;/blockquote&gt;
 
 &lt;article&gt;
 &lt;p&gt;One hundred percent this.&lt;/p&gt;
 
-&lt;p&gt;I recently had the opportunity to work alongside someone whose work and writing I had admired for some time. Probably the better part of a decade. I&apos;d read his book, watched his conference talks, and followed his growing body of work. He had an eloquent way of speaking about our craft as designers and could break down complex ideas into easy to digest chunks with what seemed like ease. He seemed like an affable dude.&lt;/p&gt; 
+&lt;p&gt;I recently had the opportunity to work alongside someone whose work and writing I had admired for some time. Probably the better part of a decade. I&apos;d read his book, watched his conference talks, and followed his growing body of work. He had an eloquent way of speaking about our craft as designers and could break down complex ideas into easy to digest chunks with what seemed like ease. He seemed like an affable dude.&lt;/p&gt;
 
 &lt;p&gt;When I got to know him, I realized that those things I admired about him were more about the work and the approach to the work, and had nothing to do with the person. The person was an entirely different... experience.&lt;/p&gt;
 
@@ -389,7 +401,7 @@ As true now as it was then.&lt;/p&gt;
 
 &lt;blockquote cite=&quot;&quot; class=&quot;border-l-4 border-[#aaa] pl-10 my-10&quot;&gt;
     &lt;p class=&quot;-indent-[.525rem]&quot;&gt;&quot;Your profession is not your personality. Reducing yourself to any single characteristic, whether it be your title or your job performance, is a deeply damaging act.&quot;&lt;/p&gt;
-&lt;footer class=&quot;text-[#999]&quot;&gt;— Arthur C. Brooks&lt;/footer&gt; 
+&lt;footer class=&quot;text-[#999]&quot;&gt;— Arthur C. Brooks&lt;/footer&gt;
 &lt;/blockquote&gt;
 &lt;/article&gt;&lt;/article&gt;
 </content>
@@ -421,7 +433,7 @@ As true now as it was then.&lt;/p&gt;
 
 &lt;h2&gt;Lead with levity&lt;/h2&gt;
 
-&lt;p&gt;Levity can be used as a guideline for how we approach our own work as well as how we ask other to approach theirs. It can provide the margin we need to take more risks and push the perimeter out a bit more.&lt;/p&gt;  
+&lt;p&gt;Levity can be used as a guideline for how we approach our own work as well as how we ask other to approach theirs. It can provide the margin we need to take more risks and push the perimeter out a bit more.&lt;/p&gt;
 
 &lt;p&gt;Levity frees us up to drop the pretension of product or service the company has socialized and just focus on doing good work.&lt;/p&gt;
 
