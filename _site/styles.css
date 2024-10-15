@@ -11,8 +11,14 @@
   font-style: normal;
 }
 @font-face {
-  font-family: "Soehne Breit";
-  src: url("assets/fonts/test-soehne-breit-kraftig.woff2") format("woff2");
+  font-family: "Tiempos Medium";
+  src: url("assets/fonts/test-tiempos-headline-medium.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Tiempos Regular";
+  src: url("assets/fonts/test-tiempos-headline-regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
@@ -31,6 +37,8 @@
 }
 
 body {
+  width: 100%;
+  height: 100vh;
   font-family: "Soehne Book", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -64,7 +72,12 @@ h4,
 h5,
 h6 {
   overflow-wrap: break-word;
-  font-size: 1.25rem;
+  font-size: 1rem;
+}
+
+strong {
+  font-family: "Soehne Bold";
+  font-weight: normal;
 }
 
 h2, h3, h4, h5 {
@@ -80,11 +93,51 @@ a {
 #home {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   width: 100%;
   height: 100vh;
   background: rgba(0, 0, 0, 0.99);
+}
+#home header[role=nav] {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+#home header[role=nav] a {
+  padding: 1.5em;
+  color: rgba(255, 255, 255, 0.25);
+}
+#home header[role=nav] a:first-child {
+  border-right: 1px solid rgba(255, 255, 255, 0.1);
+}
+#home header[role=nav] a:last-child {
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+}
+#home footer[role=nav] {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+#home footer[role=nav] a {
+  padding: 1.5em;
+  color: rgba(255, 255, 255, 0.25);
+}
+#home footer[role=nav] a:first-child {
+  border-right: 1px solid rgba(255, 255, 255, 0.1);
+}
+#home footer[role=nav] a:last-child {
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+}
+#home header[role=nav] a,
+#home footer[role=nav] a {
+  transition: all 200ms ease;
+}
+#home header[role=nav] a:hover,
+#home footer[role=nav] a:hover {
+  color: rgba(255, 255, 255, 0.99);
 }
 #home section {
   display: flex;
@@ -93,8 +146,8 @@ a {
   max-width: 42em;
 }
 #home section header p {
-  font-family: "Soehne Bold";
-  font-size: 1.25rem;
+  font-family: "Tiempos Medium";
+  font-size: 1.5rem;
   color: rgba(255, 255, 255, 0.99);
 }
 #home section header p sup {
@@ -108,164 +161,366 @@ a {
   margin: 0 0 2em 0;
 }
 #home section article p {
-  font-size: 1.25rem;
+  font-size: 1rem;
   color: rgba(255, 255, 255, 0.5);
-}
-#home section nav {
-  display: flex;
-  justify-content: center;
-}
-#home section nav ul {
-  display: flex;
-  flex-direction: row;
-  gap: 2em;
-  list-style: none;
-  padding: 0;
-  font-size: 1.25rem;
-}
-#home section nav ul li a {
-  text-decoration: none;
-  color: rgba(255, 255, 255, 0.3);
 }
 
 .wrapper {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
 }
 .wrapper header[role=masthead],
 .wrapper footer[role=footer] {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 2em 0;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 1.5em;
 }
 .wrapper header[role=masthead] ul,
 .wrapper footer[role=footer] ul {
   display: flex;
   flex-direction: row;
-  gap: 2em;
+  gap: 1.5em;
   list-style: none;
   padding: 0;
 }
-.wrapper header[role=masthead] ul li a,
-.wrapper footer[role=footer] ul li a {
-  text-decoration: none;
-  color: rgba(0, 0, 0, 0.5);
+.wrapper header[role=masthead] p, .wrapper header[role=masthead] a,
+.wrapper footer[role=footer] p,
+.wrapper footer[role=footer] a {
+  display: flex;
+  padding: 1.5em 0;
 }
-.wrapper header[role=masthead] ul li a:hover,
-.wrapper footer[role=footer] ul li a:hover {
-  color: rgba(0, 0, 0, 0.99);
+.wrapper header[role=masthead] h1 {
+  font-family: "Soehne Book";
+  font-weight: normal;
 }
 .wrapper main {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 4em 2em;
-  border: 2px solid red;
 }
 
-.post-index {
-  max-width: 50em;
+#writing {
+  background: rgba(0, 0, 0, 0.99);
+}
+#writing header[role=masthead] {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+#writing header[role=masthead] a {
+  color: rgba(255, 255, 255, 0.25);
+  transition: all 200ms ease;
+}
+#writing header[role=masthead] a:hover {
+  color: rgba(255, 255, 255, 0.99);
+}
+#writing footer[role=footer] {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+#writing footer[role=footer] p, #writing footer[role=footer] a {
+  color: rgba(255, 255, 255, 0.25);
+}
+#writing footer[role=footer] a {
+  transition: all 200ms ease;
+}
+#writing footer[role=footer] a:hover {
+  color: rgba(255, 255, 255, 0.99);
+}
+#writing section.post-index {
+  max-width: 40em;
   width: 100%;
 }
-.post-index ul {
-  list-style: none;
+#writing section.post-index header {
+  margin: 0 0 4em 0;
+}
+#writing section.post-index header p {
+  font-family: "Tiempos Medium";
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.99);
+}
+#writing section.post-index ul {
   padding: 0;
 }
-.post-index ul li {
-  margin-bottom: 1rem;
-}
-.post-index ul li a {
+#writing section.post-index ul li a {
   display: flex;
+  flex-direction: row;
+  padding: 0.25em 0;
+  transition: all 200ms ease;
 }
-.post-index ul li a h2 {
+#writing section.post-index ul li a h2 {
   flex: none;
-  line-height: 1;
+  color: rgba(255, 255, 255, 0.99);
 }
-.post-index ul li a div {
+#writing section.post-index ul li a div {
   width: 100%;
-  height: 1.1rem;
+  height: 1.15rem;
   margin-inline: 0.5rem;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  transition: all 300ms ease;
+  border-bottom: 1px dotted rgba(255, 255, 255, 0.2);
+  transition: all 200ms ease;
 }
-.post-index ul li a p {
+#writing section.post-index ul li a p {
   flex: none;
-  line-height: 1;
-  color: rgba(0, 0, 0, 0.5);
-  transition: all 300ms ease;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.4);
+  transition: all 200ms ease;
 }
-.post-index ul li a:hover div {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+#writing section.post-index ul li a:hover div {
+  border-bottom: 1px dotted rgba(255, 255, 255, 0.99);
 }
-.post-index ul li a:hover p {
-  color: rgba(0, 0, 0, 0.99);
+#writing section.post-index ul li a:hover p {
+  color: rgba(255, 255, 255, 0.99);
 }
 
-.post,
-.profile {
+#studio {
+  background: rgba(0, 0, 0, 0.99);
+}
+#studio header[role=masthead] {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+#studio header[role=masthead] a {
+  color: rgba(255, 255, 255, 0.25);
+  transition: all 200ms ease;
+}
+#studio header[role=masthead] a:hover {
+  color: rgba(255, 255, 255, 0.99);
+}
+#studio footer[role=footer] {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+#studio footer[role=footer] p, #studio footer[role=footer] a {
+  color: rgba(255, 255, 255, 0.25);
+}
+#studio footer[role=footer] a {
+  transition: all 200ms ease;
+}
+#studio footer[role=footer] a:hover {
+  color: rgba(255, 255, 255, 0.99);
+}
+#studio section.project-index {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 80em;
+  width: 100%;
+}
+#studio section.project-index header {
+  max-width: 40em;
+  margin: 0 0 4em 0;
+}
+#studio section.project-index header p {
+  font-family: "Tiempos Medium";
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.99);
+}
+#studio section.project-index ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  gap: 2em;
+  padding: 0;
+}
+#studio section.project-index ul li a img {
+  border-radius: 4px;
+}
+
+.post header[role=masthead] {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+.post header[role=masthead] a {
+  color: rgba(0, 0, 0, 0.25);
+  transition: all 200ms ease;
+}
+.post header[role=masthead] a:hover {
+  color: rgba(0, 0, 0, 0.99);
+}
+.post footer[role=footer] {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.post footer[role=footer] p, .post footer[role=footer] a {
+  color: rgba(0, 0, 0, 0.25);
+}
+.post footer[role=footer] a {
+  transition: all 200ms ease;
+}
+.post footer[role=footer] a:hover {
+  color: rgba(0, 0, 0, 0.99);
+}
+.post section.essay {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.post section.essay header {
+  max-width: 40em;
+  width: 100%;
+  margin: 0 0 4em 0;
+}
+.post section.essay header h2 {
+  font-family: "Tiempos Medium";
+  font-size: 1.5rem;
+  color: rgba(0, 0, 0, 0.99);
+}
+.post section.essay article,
+.post section.essay blockquote {
+  max-width: 40em;
+  width: 100%;
+}
+.post section.essay article {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+.post section.essay article h2, .post section.essay article h3 {
+  font-family: "Tiempos Medium";
+  font-size: 1.25rem;
+}
+.post section.essay blockquote {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  margin: 2em 0;
+  padding: 1.5em;
+  background: rgba(0, 0, 0, 0.05);
+  border-left: 2px solid rgba(0, 0, 0, 0.25);
+}
+.post section.essay figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1em;
+  margin: 2em 0;
+}
+.post section.essay figure img {
+  border-radius: 4px;
+}
+.post section.essay figure figcaption {
+  max-width: 40em;
+  width: 100%;
+}
+.post section.essay figure figcaption p {
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+#projects header[role=masthead] {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+#projects header[role=masthead] a {
+  color: rgba(0, 0, 0, 0.25);
+  transition: all 200ms ease;
+}
+#projects header[role=masthead] a:hover {
+  color: rgba(0, 0, 0, 0.99);
+}
+#projects footer[role=footer] {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+#projects footer[role=footer] p, #projects footer[role=footer] a {
+  color: rgba(0, 0, 0, 0.25);
+}
+#projects footer[role=footer] a {
+  transition: all 200ms ease;
+}
+#projects footer[role=footer] a:hover {
+  color: rgba(0, 0, 0, 0.99);
+}
+#projects section.project {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#projects section.project header {
+  max-width: 40em;
+  width: 100%;
+  margin: 0 0 4em 0;
+}
+#projects section.project header h2 {
+  font-family: "Tiempos Medium";
+  font-size: 1.5rem;
+  color: rgba(0, 0, 0, 0.99);
+}
+#projects section.project article,
+#projects section.project blockquote {
+  max-width: 40em;
+  width: 100%;
+}
+#projects section.project article {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+#projects section.project article h2, #projects section.project article h3 {
+  font-family: "Tiempos Medium";
+  font-size: 1.25rem;
+}
+#projects section.project figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1em;
+  margin: 4em 0;
+}
+#projects section.project figure img {
+  border-radius: 4px;
+}
+#projects section.project figure figcaption {
+  max-width: 40em;
+  width: 100%;
+}
+#projects section.project figure figcaption p {
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, 0.5);
+}
+#projects section.project figure.two-up {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2em;
+}
+#projects section.project figure.three-up {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2em;
+}
+
+.note {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 2em;
 }
-.post header,
-.profile header {
-  max-width: 50em;
+.note article {
+  display: flex;
+  flex-direction: column;
+  max-width: 40em;
   width: 100%;
+  gap: 1em;
 }
-.post header h2,
-.profile header h2 {
-  font-family: "Soehne Bold";
-}
-.post article,
-.post blockquote,
-.profile article,
-.profile blockquote {
-  max-width: 50em;
+.note footer {
   width: 100%;
-}
-.post figure figcaption,
-.profile figure figcaption {
-  margin-top: 0.5em;
-}
-.post figure figcaption p,
-.profile figure figcaption p {
-  color: rgba(0, 0, 0, 0.5);
-}
-.post article h2, .post article h3, .post article p,
-.profile article h2,
-.profile article h3,
-.profile article p {
-  margin: 0 0 1em 0;
-}
-.post article h2, .post article h3,
-.profile article h2,
-.profile article h3 {
-  font-family: "Soehne Bold";
-}
-.post article p:last-child,
-.profile article p:last-child {
-  margin: 0;
 }
 
-.project-index ul {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: auto;
-  gap: 2em;
-  list-style: none;
-  padding: 0;
+.profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4em;
 }
-.project-index ul li {
-  width: 100%;
-  height: 100%;
+.profile figure img {
+  border-radius: 4px;
 }
-.project-index ul li a img {
+.profile article {
+  max-width: 40em;
   width: 100%;
-  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+.profile article h2, .profile article h3 {
+  font-family: "Tiempos Medium";
+  font-size: 1.25rem;
 }
 
 /*# sourceMappingURL=styles.css.map */

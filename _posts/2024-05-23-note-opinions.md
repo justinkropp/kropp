@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: note
 title: A note about opinions
-category: post
+category: note
 tags: Reflection
 published: true
 permalink: 'note-opinions'

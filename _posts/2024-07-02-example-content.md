@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: essay
 title: Example content
 category:
   - post
@@ -28,7 +28,7 @@ featured-image: fpo.png
 <p>Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.</p>
 </article>
 
-<figure class="">
+<figure>
   <img src="./assets/fpo.png">
   <figcaption>
     <p>Doloremque eos dolor in ut velit quod aut.</p>

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: note
 title: A note about rabbit
-category: post
+category: note
 tags: Tech
 published: true
 permalink: 'note-rabbit'

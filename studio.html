@@ -1,18 +1,22 @@
 ---
-layout: page
+layout: studio
 title: Studio
 ---
 
 <section class="project-index">
-<ul>
-  {% for post in site.categories.project %}
-  {% if post.url %}
-    <li>
-      <a href="{{ post.url }}">
-          {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
-      </a>
-    </li>
-  {% endif %}
-  {% endfor %}
-</ul>
+  <header>
+    <p>Enim et odio numquam explicabo hic  doloremque aliquid consequatur tempora perspiciatis numquam voluptate. Occaecati ipsa provident incidunt fuga.</p>
+  </header>
+
+  <ul>
+    {% for post in site.categories.project %}
+    {% if post.url %}
+      <li>
+        <a href="{{ post.url }}">
+            {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
+        </a>
+      </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
 </section>

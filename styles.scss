@@ -16,8 +16,15 @@
 }
 
 @font-face {
-  font-family: "Soehne Breit";
-  src: url("assets/fonts/test-soehne-breit-kraftig.woff2") format("woff2");
+  font-family: "Tiempos Medium";
+  src: url("assets/fonts/test-tiempos-headline-medium.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Tiempos Regular";
+  src: url("assets/fonts/test-tiempos-headline-regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
@@ -39,6 +46,8 @@
 }
 
 body {
+  width: 100%;
+  height: 100vh;
   font-family: 'Soehne Book', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -72,7 +81,12 @@ h4,
 h5,
 h6 {
   overflow-wrap: break-word;
-  font-size: 1.25rem;
+  font-size: 1rem;
+}
+
+strong {
+  font-family: "Soehne Bold";
+  font-weight: normal;
 }
 
 h2, h3, h4, h5 {
@@ -87,16 +101,57 @@ a {
 }
 
 
-// Homepage Layout
+// Home
 
 #home {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   width: 100%;
   height: 100vh;
   background: rgba(0, 0, 0, 0.99);
+  header[role=nav] {
+    width: 100%;
+    display:  flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+    a {
+      padding: 1.5em;
+      color: rgba(255, 255, 255, 0.25);
+      &:first-child {
+        border-right: 1px solid rgba(255, 255, 255, 0.10);
+      }
+      &:last-child {
+        border-left: 1px solid rgba(255, 255, 255, 0.10);
+      }
+    }
+  }
+  footer[role=nav] {
+    width: 100%;
+    display:  flex;
+    justify-content: space-between;
+    border-top: 1px solid rgba(255, 255, 255, 0.10);
+    a {
+      padding: 1.5em;
+      color: rgba(255, 255, 255, 0.25);
+      &:first-child {
+        border-right: 1px solid rgba(255, 255, 255, 0.10);
+      }
+      &:last-child {
+        border-left: 1px solid rgba(255, 255, 255, 0.10);
+      }
+    }
+  }
+  header[role=nav],
+  footer[role=nav] {
+    a {
+      transition: all 200ms ease;
+      &:hover {
+        color: rgba(255, 255, 255, 0.99);
+      }
+    }
+  }
   section {
     display: flex;
     flex-direction: column;
@@ -104,8 +159,8 @@ a {
     max-width: 42em;
     header {
       p {
-        font-family: "Soehne Bold";
-        font-size: 1.25rem;
+        font-family: "Tiempos Medium";
+        font-size: 1.5rem;
         color: rgba(255, 255, 255, 0.99);
         sup {
           font-size: 1rem;
@@ -119,26 +174,8 @@ a {
       gap: 4em;
       margin: 0 0 2em 0;
       p {
-        font-size: 1.25rem;
+        font-size: 1rem;
         color: rgba(255, 255, 255, 0.50);
-      }
-    }
-    nav {
-      display: flex;
-      justify-content: center;
-      ul {
-        display: flex;
-        flex-direction: row;
-        gap: 2em;
-        list-style: none;
-        padding: 0;
-        font-size: 1.25rem;
-        li {
-          a {
-            text-decoration: none;
-            color: rgba(255, 255, 255, 0.30);
-          }
-        }
       }
     }
   }
@@ -149,29 +186,31 @@ a {
 .wrapper {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
   header[role=masthead],
   footer[role=footer] {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 2em 0;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 1.5em;
     ul {
       display: flex;
       flex-direction: row;
-      gap: 2em;
+      gap: 1.5em;
       list-style: none;
       padding: 0;
-      li {
-        a {
-          text-decoration: none;
-          color: rgba(0, 0, 0, 0.5);
-          &:hover {
-            color: rgba(0, 0, 0, 0.99);
-          }
-        }
-      }
+    }
+    p, a {
+      display: flex;
+      padding: 1.5em 0;
+    }
+  }
+  header[role=masthead] {
+    h1 {
+      font-family: 'Soehne Book';
+      font-weight: normal;
     }
   }
   main {
@@ -179,115 +218,350 @@ a {
     flex-direction: column;
     align-items: center;
     padding: 4em 2em;
-    border: 2px solid red;
   }
 }
 
 // Writing
 
-.post-index {
-  max-width: 50em;
-  width: 100%;
-  ul {
-    list-style: none;
-    padding: 0;
-    li {
-      margin-bottom: 1rem;
-      a {
-        display: flex;
-        h2 {
-          flex: none;
-          line-height: 1;
-        }
-        div {
-          width: 100%;
-          height: 1.1rem;
-          margin-inline: .5rem;
-          border-bottom: 1px solid rgba(0, 0, 0, 0.10);
-          transition: all 300ms ease;
-        }
-        p {
-          flex: none;
-          line-height: 1;
-          color:rgba(0, 0, 0, 0.5);
-          transition: all 300ms ease;
-        }
-        &:hover {
+#writing {
+  background: rgba(0, 0, 0, 0.99);
+  header[role=masthead] {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+    a {
+      color: rgba(255, 255, 255, 0.25);
+      transition: all 200ms ease;
+      &:hover {
+        color: rgba(255, 255, 255, 0.99);
+      }
+    }
+  }
+  footer[role=footer] {
+    border-top: 1px solid rgba(255, 255, 255, 0.10);
+    p, a {
+      color: rgba(255, 255, 255, 0.25);
+    }
+    a {
+      transition: all 200ms ease;
+      &:hover {
+        color: rgba(255, 255, 255, 0.99);
+      }
+    }
+  }
+  section.post-index {
+    max-width: 40em;
+    width: 100%;
+    header {
+      margin: 0 0 4em 0;
+      p {
+        font-family: "Tiempos Medium";
+        font-size: 1.5rem;
+        color: rgba(255, 255, 255, 0.99);
+      }
+    }
+    ul {
+      padding: 0;
+      li {
+        a {
+          display: flex;
+          flex-direction: row;
+          padding: .25em 0;
+          transition: all 200ms ease;
+          h2 {
+            flex: none;
+            color: rgba(255, 255, 255, 0.99);
+          }
           div {
-            border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+            width: 100%;
+            height: 1.15rem;
+            margin-inline: .5rem;
+            border-bottom: 1px dotted rgba(255, 255, 255, 0.20);
+            transition: all 200ms ease;
           }
           p {
-            color:rgba(0, 0, 0, 0.99);
+            flex: none;
+            text-align: right;
+            color: rgba(255, 255, 255, 0.4);
+            transition: all 200ms ease;
+          }
+          &:hover {
+            div {
+              border-bottom: 1px dotted rgba(255, 255, 255, 0.99);
+            }
+            p {
+              color: rgba(255, 255, 255, 0.99);
+            }
           }
         }
       }
-    }
-  }
-}
-
-// Posts
-
-.post,
-.profile {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 2em;
-  header {
-    max-width: 50em;
-    width: 100%;
-    h2 {
-      font-family: "Soehne Bold";
-    }
-  }
-  article,
-  blockquote {
-    max-width: 50em;
-    width: 100%;
-  }
-  figure {
-    img {
-
-    }
-    figcaption {
-      margin-top: .5em;
-      p {
-        color:rgba(0, 0, 0, 0.50);
-      }
-    }
-  }
-  article {
-    h2, h3, p {
-      margin: 0 0 1em 0;
-    }
-    h2, h3 {
-      font-family: "Soehne Bold";
-    }
-    p:last-child {
-      margin: 0;
     }
   }
 }
 
 // Studio
 
-.project-index {
-  ul {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
-    gap: 2em;
-    list-style: none;
-    padding: 0;
-    li {
-      width: 100%;
-      height: 100%;
-      a {
-        img {
-          width: 100%;
-          height: 100%;
+#studio {
+  background: rgba(0, 0, 0, 0.99);
+  header[role=masthead] {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+    a {
+      color: rgba(255, 255, 255, 0.25);
+      transition: all 200ms ease;
+      &:hover {
+        color: rgba(255, 255, 255, 0.99);
+      }
+    }
+  }
+  footer[role=footer] {
+    border-top: 1px solid rgba(255, 255, 255, 0.10);
+    p, a {
+      color: rgba(255, 255, 255, 0.25);
+    }
+    a {
+      transition: all 200ms ease;
+      &:hover {
+        color: rgba(255, 255, 255, 0.99);
+      }
+    }
+  }
+  section.project-index {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 80em;
+    width: 100%;
+    header {
+      max-width: 40em;
+      margin: 0 0 4em 0;
+      p {
+        font-family: "Tiempos Medium";
+        font-size: 1.5rem;
+        color: rgba(255, 255, 255, 0.99);
+      }
+    }
+    ul {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: auto;
+      gap: 2em;
+      padding: 0;
+      li {
+        a {
+          img {
+            border-radius: 4px;
+          }
         }
       }
+    }
+  }
+}
+
+// Essay
+
+.post {
+  header[role=masthead] {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.10);
+    a {
+      color: rgba(0, 0, 0, 0.25);
+      transition: all 200ms ease;
+      &:hover {
+        color: rgba(0, 0, 0, 0.99);
+      }
+    }
+  }
+  footer[role=footer] {
+    border-top: 1px solid rgba(0, 0, 0, 0.10);
+    p, a {
+      color: rgba(0, 0, 0, 0.25);
+    }
+    a {
+      transition: all 200ms ease;
+      &:hover {
+        color: rgba(0, 0, 0, 0.99);
+      }
+    }
+  }
+  section.essay {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    header {
+      max-width: 40em;
+      width: 100%;
+      margin: 0 0 4em 0;
+      h2 {
+        font-family: "Tiempos Medium";
+        font-size: 1.5rem;
+        color: rgba(0, 0, 0, 0.99);
+      }
+    }
+    article,
+    blockquote {
+      max-width: 40em;
+      width: 100%;
+    }
+    article {
+      display: flex;
+      flex-direction: column;
+      gap: 1em;
+      h2, h3 {
+        font-family: "Tiempos Medium";
+        font-size: 1.25rem;
+      }
+    }
+    blockquote {
+      display: flex;
+      flex-direction: column;
+      gap: 1em;
+      margin: 2em 0;
+      padding: 1.5em;
+      background: rgba(0, 0, 0, 0.05);
+      border-left: 2px solid rgba(0, 0, 0, 0.25);
+    }
+    figure {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1em;
+      margin: 2em 0;
+      img {
+        border-radius: 4px;
+      }
+      figcaption {
+        max-width: 40em;
+        width: 100%;
+        p {
+          font-size: .9rem;
+          color: rgba(0, 0, 0, 0.5);
+        }
+      }
+    }
+  }
+}
+
+// Project
+
+#projects {
+  header[role=masthead] {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.10);
+    a {
+      color: rgba(0, 0, 0, 0.25);
+      transition: all 200ms ease;
+      &:hover {
+        color: rgba(0, 0, 0, 0.99);
+      }
+    }
+  }
+  footer[role=footer] {
+    border-top: 1px solid rgba(0, 0, 0, 0.10);
+    p, a {
+      color: rgba(0, 0, 0, 0.25);
+    }
+    a {
+      transition: all 200ms ease;
+      &:hover {
+        color: rgba(0, 0, 0, 0.99);
+      }
+    }
+  }
+  section.project {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    header {
+      max-width: 40em;
+      width: 100%;
+      margin: 0 0 4em 0;
+      h2 {
+        font-family: "Tiempos Medium";
+        font-size: 1.5rem;
+        color: rgba(0, 0, 0, 0.99);
+      }
+    }
+    article,
+    blockquote {
+      max-width: 40em;
+      width: 100%;
+    }
+    article {
+      display: flex;
+      flex-direction: column;
+      gap: 1em;
+      h2, h3 {
+        font-family: "Tiempos Medium";
+        font-size: 1.25rem;
+      }
+    }
+    figure {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1em;
+      margin: 4em 0;
+      img {
+        border-radius: 4px;
+      }
+      figcaption {
+        max-width: 40em;
+        width: 100%;
+        p {
+          font-size: .9rem;
+          color: rgba(0, 0, 0, 0.5);
+        }
+      }
+    }
+    figure.two-up {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2em;
+    }
+    figure.three-up {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 2em;
+    }
+  }
+}
+
+// Notes
+
+.note {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2em;
+  article {
+    display: flex;
+    flex-direction: column;
+    max-width: 40em;
+    width: 100%;
+    gap: 1em;
+  }
+  footer {
+    width: 100%;
+  }
+}
+
+// Profile
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4em;
+  figure {
+    img {
+      border-radius: 4px;
+    }
+  }
+  article {
+    max-width: 40em;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    h2, h3 {
+      font-family: "Tiempos Medium";
+      font-size: 1.25rem;
     }
   }
 }
