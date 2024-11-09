@@ -43,7 +43,7 @@ input, button, textarea, select {
 */
 p, h1, h2, h3, h4, h5, h6 {
   margin: 0;
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: normal;
   overflow-wrap: break-word;
 }
@@ -59,7 +59,6 @@ body {
   width: 100%;
   min-height: 100dvh;
   font-family: "Geist Regular";
-  font-size: 0.8rem;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   background: rgba(0, 0, 0, 0.99);
