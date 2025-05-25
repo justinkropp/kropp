@@ -92,6 +92,25 @@ img {
   height: 100%;
 }
 
+// Temp Home
+  body#home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 5em;
+    background:rgba(0, 0, 0, .90);
+    .container {
+      display: flex;
+      flex-direction: column;
+      max-width: 36em;
+      gap: 1em;
+      p {
+        font-size: 1.25rem;
+      }
+    }
+  }
 
 // Page Composition
 
@@ -100,6 +119,7 @@ img {
   min-height: 100vh;
   padding: 5em 10em;
   background: var(--black);
+  border: 1px solid red;
   header[role=masthead],
   footer[role=footer] {
     display: flex;

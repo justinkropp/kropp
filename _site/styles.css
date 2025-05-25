@@ -87,11 +87,31 @@ img {
   height: 100%;
 }
 
+body#home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 5em;
+  background: rgba(0, 0, 0, 0.9);
+}
+body#home .container {
+  display: flex;
+  flex-direction: column;
+  max-width: 36em;
+  gap: 1em;
+}
+body#home .container p {
+  font-size: 1.25rem;
+}
+
 .wrapper {
   width: 100%;
   min-height: 100vh;
   padding: 5em 10em;
   background: var(--black);
+  border: 1px solid red;
 }
 .wrapper header[role=masthead],
 .wrapper footer[role=footer] {
