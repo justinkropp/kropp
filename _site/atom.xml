@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Justin Kropp</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="https://justinkropp.com/"/>
+ <updated>2025-05-24T19:27:25-04:00</updated>
+ <id>https://justinkropp.com</id>
+ <author>
+   <name>Justin Kropp</name>
+   <email>justinkropp@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Example content</title>
+   <link href="https://justinkropp.com/example-content"/>
+   <updated>2025-04-22T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/example-content</id>
+   <content type="html">&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;blockquote cite=&quot;&quot;&gt;
+    &lt;p&gt;&quot;It is unwise to seek personal acquaintance with people whom one has regarded with high esteem, as they often fail to fulfill one&apos;s expectations, resulting in disappointment.&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;article&gt;
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;h2&gt;H2 Headline&lt;/h2&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;h3&gt;H3 Headline&lt;/h3&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>JOMO</title>
+   <link href="https://justinkropp.com/jomo"/>
+   <updated>2025-03-27T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/jomo</id>
+   <content type="html">&lt;article&gt;
+
+&lt;p&gt;Like many of us I tend to pass some of my downtime or in-between time by browsing social media or mindlessly ingesting a palette of headlines from *insert news org here*. Last year I realized that my social media habits were simply a surrogate for a feeling of connectedness to the world and what was going on in the small circles of interest I followed. The news simply served as a way for me to navigate making sense of what was going on in the world at large. Both habits — social media and the news — were a kind of participatory activity predicated on FOMO. If a friend asked “did you hear about so and so” I could respond — confidently — yes, and then we could riff. Or if, while thumbing down my Instagram feed, I got sucked into some video from Huberman or Attia I would feel like it was time well spent because I had gained some new knowledge about morning sunlight or some bio-marker that I really need to get checked for.&lt;/p&gt;
+
+&lt;p&gt;If not kept in check, these behaviors move stealthily from intentional to aimless and eat up more and more of our time. Anything for that quick hit of dopamine.&lt;/p&gt; 
+
+&lt;p&gt;Months ago I made the decision to get off all social media and stop seeking out knowing what’s going on in the world. I needed to free up some brain space as well as some time. I’ve since noticed a striking difference in how calm my mind feels and how much space I now have to dedicate to things that are actually important to me. I’ve realized that none of what I was seeking through those channels was neither important nor contributing to a better me.&lt;/p&gt; 
+
+&lt;p&gt;Now, instead of FOMO, I take pride JOMO: joy of missing out. When a friend now asks “did you hear about *some shit*”, I love saying: “nope”.&lt;/p&gt;
+
+&lt;p&gt;Try it for a day. Then a couple days. Once you hit a week, kudos. Now just keep that going. You’re not missing out on anything. I promise.&lt;/p&gt;
+
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>False Idols</title>
+   <link href="https://justinkropp.com/false-idols"/>
+   <updated>2025-03-27T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/false-idols</id>
+   <content type="html">&lt;article&gt;
+
+&lt;p&gt;Every profession has its version of celebrity practitioner. Some professions have many, while others seem to just have a small handful that make the rounds for years in publications, conferences, panels, etc. In graphic design, Stefan Sagmeister was a the closest thing we had to a rock star, and he remained the exalted one for years. In standards-based web design it was Jeffrey Zeldman. Flash? Joshua Davis. In digital product design there seem to be countless that tread at the top, in part due to the many disciplines that are squished together and encapsulated in the term &quot;product design&quot;.&lt;/p&gt;
+
+&lt;p&gt;Our profession -- design (web, product, etc) -- has its idols. Folks we look up to for their design acumen and body of work, whether that work is applied or theoretical. It&apos;s only natural -- human nature even -- to place these practitioners we admire up on a pedestal.&lt;/p&gt;
+
+&lt;p&gt;Seldom do we get to meet them and even more seldom do we get to work alongside them. We only know the image that we&apos;ve abstracted from what we&apos;ve seen at conference talks, interviews online, or perhaps in podcasts they host or have been guests on. The constructed image is illusory at best.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It is unwise to seek personal acquaintance with people whom one has regarded with high esteem, as they often fail to fulfill one&apos;s expectations, resulting in disappointment.&lt;/p&gt;
+&lt;p&gt;— &lt;em&gt;ancient proverb&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt; 
+
+&lt;p&gt;One hundred percent this.&lt;/p&gt;
+
+&lt;p&gt;I recently had the opportunity to work alongside someone whose work and writing I had admired for some time. Probably the better part of a decade. I&apos;d read his book, watched his conference talks, and followed his growing body of work. He had an eloquent way of speaking about our craft as designers and could break down complex ideas into easy to digest chunks with what seemed like ease. He seemed like an affable dude.&lt;/p&gt; 
+
+&lt;p&gt;When I got to know him, I realized that those things I admired about him were more about the work and the approach to the work, and had nothing to do with the person. The person was an entirely different... experience.&lt;/p&gt;
+
+&lt;p&gt;To say I was disappointed would be an understatement. But this disappointment is on me. I made the mistake of not only putting his work on a pedestal, I put him there too. And that&apos;s not fair. We are never our work, I hope, and never should be.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Your profession is not your personality. Reducing yourself to any single characteristic, whether it be your title or your job performance, is a deeply damaging act.&lt;/p&gt;
+&lt;p&gt;— &lt;em&gt;Arthur C. Brooks&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Beyond Familiar</title>
+   <link href="https://justinkropp.com/beyond-familiar"/>
+   <updated>2025-03-27T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/beyond-familiar</id>
+   <content type="html">&lt;article&gt;
+
+&lt;p&gt;I recently visited Chattanooga in Tennessee. It&apos;s my hometown and a trip there is never easy for me. There is always a point during my visits when I become emotional as slivers of my past — the good and the bad — resurface. There are parts of the city that conjure up memories that I&apos;d rather not revisit: painful breakups, a car accident, and familial drama. But there are also locations that provide an overwhelming source of happiness and fondness — the hundreds of beautiful days I spent outside rock-climbing with friends, the amazing job I had at an outdoor shop during high-school and college, and my first kiss with Erin.&lt;/p&gt;
+
+&lt;p&gt;While growing up here, the city always felt comfortable and safe. I knew the people and I knew my way around. Getting lost in this place was almost impossible. The city was predictable, and as I grew older and my curiosity stronger, it didn&apos;t offer what I needed: unfamiliarity and opportunities for discovery. My hometown became destined to be just that: my hometown, a place where I grew up. So I did what I needed to do and moved away.&lt;/p&gt;
+
+&lt;p&gt;On my most recent visit home, while wandering through the town and past some of my usual spots, I began to realise not only how my feelings had changed, but how the city itself had changed. I was now an outside observer visiting a place that felt foreign, despite the familiarity. This was not the hometown I knew anymore. This was not that muted city with only one decent coffee shop and a notable population of vagabonds. This town felt alive and vibrant; its pulse youthful. I found myself discovering things to love; things I hadn&apos;t encountered before. These discoveries were nourishing and restoring my relationship with the place that I once couldn&apos;t wait to leave.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;A mind that is stretched by a new experience can never go back to its old dimensions&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Oliver Wendell Holmes, Jr.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt; 
+
+&lt;p&gt;For many of us, there&apos;s a period in our adolescence when we can&apos;t wait to leave home. We yearn to strike out on our own, carve our own path, and prove that we belong in this world. We need to test ourselves, to prove that we can provide for ourselves and accomplish something. Leaving home is never easy. Change, in general, is never easy, but it&apos;s necessary if we&apos;re to allow ourselves the chance to grow. I&apos;m reminded of a quote by Oliver Wendell Holmes, Jr. who said &quot;A mind that is stretched by a new experience can never go back to its old dimensions&quot;.&lt;/p&gt;
+
+&lt;p&gt;I find a lot of parallels between the experiences I&apos;ve had returning home and the relationship I have with our industry. I love what I do and find comfort in knowing that discoveries in technology will continue to push the boundaries of what we do and how we do it. I count myself lucky to be engaged in a creative pursuit that rewards curiosity. But I still get burnt out, run down, and frustrated. Our work not only demands innovative thinking with a pragmatic approach, but managing clients, project budgets, growing to-do lists, and the elusive inbox zero. Our field is evolving at an ever-increasing pace, and if we want to remain relevant we, too, must evolve right along with it. As a digital product designer, change is a responsibility I owe not only myself, but the audiences my work serves.&lt;/p&gt;
+
+&lt;p&gt;However, over the years I&apos;ve learned that professional growth isn&apos;t just about remaining abreast of the advances in our field. Keeping up with the changes in our profession is necessary, but in the process, it is all too easy to close ourselves off in an echo-chamber of design and technology. Sometimes we need to step away from our professional roles and pursue other interests in order to grow. Experiences we have outside the realm of our expertise can help us to provide additional layers of insight to the projects we take on. Our work may become better as a result and provide new perspectives to those who see it.&lt;/p&gt;
+
+&lt;p&gt;I had always been interested in psychology, so several years ago I began pursuing a degree in behavioural psychology. I was presented with fascinating facts about the way we behave and the influencers of that behaviour. Entering an unknown territory and engaging with an entirely new subject matter helped me become a better user experience designer.&lt;/p&gt;
+
+&lt;p&gt;I left home and gained a new perspective on why I loved where I was from. Stepping away and leaving the familiar behind, if only for a short period of time, can help us broaden our horizons. A renewed vision brings with it a restored focus. We can return to work with a deeper respect for what we do and who we are.&lt;/p&gt;
+
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Unapologetic</title>
+   <link href="https://justinkropp.com/unapologetic"/>
+   <updated>2025-03-26T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/unapologetic</id>
+   <content type="html">&lt;article&gt;
+
+&lt;p&gt;Talking politics or religion is often considered taboo — especially in unfamiliar social settings — for fear of insulting the beliefs or worldviews of others. Treading lightly is overrated, and I say fuck holding your views close to the chest. Many political positions — and all religious views — are contemptible and worthy of savage derision. If you hold your convictions firm, and believe them to be on the right side of morality, then be unapologetic in both your holding of those convictions and in your freedom to publicly espouse them. The world needs fewer milksops, not more.&lt;/p&gt;
+
+&lt;p&gt;I’m a &lt;a href=&quot;https://en.wikipedia.org/wiki/Secular_humanism&quot;&gt;secular humanist&lt;/a&gt; with progressive views living in the heart of the bible belt — as I have much of my adult life. It is a region of our country that is largely unlettered and wholly delusional. While living here can be challenging at times, it’s largely tolerable if you disregard the willful ignorance, apathy toward intellectual curiosity, and rampant bigotry that abounds. Easier said that done, for sure.&lt;/p&gt;
+
+&lt;p&gt;I’ve lost relationships and friendships due to my beliefs, but I stay steadfast in and true to those beliefs and walk through life utterly unapologetic for holding them. To do otherwise would be a betrayal of the values I claim to hold. &lt;/p&gt;
+
+&lt;h2&gt;Organizations I Support&lt;/h2&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;a href=&quot;https://thesatanictemple.com&quot;&gt;The Satanic Temple&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://ffrf.org&quot;&gt;Freedom From Religion Foundation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://centerforinquiry.org&quot;&gt;Center for Inquiry&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.plannedparenthood.org&quot;&gt;Planned Parenthood&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.abortioncaretn.org&quot;&gt;Abortion Care Tennessee&lt;/a&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sketch Two</title>
+   <link href="https://justinkropp.com/sketch-two"/>
+   <updated>2025-03-24T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/sketch-two</id>
+   <content type="html">&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sketch Three</title>
+   <link href="https://justinkropp.com/sketch-three"/>
+   <updated>2025-03-24T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/sketch-three</id>
+   <content type="html">&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/sketch-three.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sketch Six</title>
+   <link href="https://justinkropp.com/sketch-six"/>
+   <updated>2025-03-24T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/sketch-six</id>
+   <content type="html">&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sketch One</title>
+   <link href="https://justinkropp.com/sketch-one"/>
+   <updated>2025-03-24T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/sketch-one</id>
+   <content type="html">&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sketch Four</title>
+   <link href="https://justinkropp.com/sketch-four"/>
+   <updated>2025-03-24T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/sketch-four</id>
+   <content type="html">&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sketch Five</title>
+   <link href="https://justinkropp.com/sketch-five"/>
+   <updated>2025-03-24T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/sketch-five</id>
+   <content type="html">&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Project Six</title>
+   <link href="https://justinkropp.com/project-six"/>
+   <updated>2025-03-24T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/project-six</id>
+   <content type="html">&lt;article&gt;
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;h2&gt;H2 Headline&lt;/h2&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;h3&gt;H3 Headline&lt;/h3&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Project Five</title>
+   <link href="https://justinkropp.com/project-five"/>
+   <updated>2025-03-24T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/project-five</id>
+   <content type="html">&lt;article&gt;
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;h2&gt;H2 Headline&lt;/h2&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;h3&gt;H3 Headline&lt;/h3&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Feedback</title>
+   <link href="https://justinkropp.com/feedback"/>
+   <updated>2025-03-02T00:00:00-05:00</updated>
+   <id>https://justinkropp.com/feedback</id>
+   <content type="html">&lt;article&gt;
+
+&lt;p&gt;In my 20 years as a design practitioner I’ve received, and given, a fair share of feedback. The ability to give helpful, and receive critical, feedback is as important to your design career as any other facet of the discipline. Engaging with both takes patience and practice. If you’re lucky, you’ll end up surrounded by peers who give you the space to practice as well as providing good examples of useful feedback.&lt;/p&gt;
+&lt;p&gt;In my career I’ve been fortunate to have been surrounded, more often than not, by colleagues who have been generous and effective in their guidance and feedback. This isn’t to say that I’ve also experienced my fair share of useless feedback, more often than not was delivered by stakeholders in the c-suite.&lt;/p&gt;
+
+&lt;h3&gt; Useful feedback is…&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;actionable&lt;/li&gt;
+    &lt;li&gt;specific&lt;/li&gt;
+    &lt;li&gt;objective&lt;/li&gt;
+    &lt;li&gt;requested&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here some examples of useful feedback I’ve encountered over the years.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&quot;These two colors feel too close and aren’t providing enough contrast; can you find a secondary color that feels more complimentary?&quot;&lt;/em&gt;&lt;/p&gt;
+ 
+&lt;p&gt;&lt;em&gt;&quot;The viewport margins feel too tight and cramped on mobile. Can you explore injecting some more space between the viewport edge and the content?&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&quot;The sans-serif typeface is a bit difficult to read at this smaller size, can you try either bumping up the size or try a serif face?&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;Useless feedback is…&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;reactionary&lt;/li&gt;
+    &lt;li&gt;imprecise&lt;/li&gt;
+    &lt;li&gt;demotivating&lt;/li&gt;
+    &lt;li&gt;non-actionable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here are some examples of useless feedback I’ve been given over the years.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&quot;This is ugly…&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&quot;This gives me heartburn…&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&quot;This is odd…&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&quot;This just doesn’t feel right…&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&quot;This is stupid…&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Leading with Levity</title>
+   <link href="https://justinkropp.com/levity"/>
+   <updated>2024-10-30T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/levity</id>
+   <content type="html">&lt;p&gt;Some time ago I heard a comedian telling a story about friend who was describing what their day job was like, and this person described it as: *doing serious work for serious people seriously.*&lt;/p&gt;
+
+&lt;p&gt;All I could think of at the time was how uninspired that work must be. How exhausting it must be to slog through that kind of environment day after day.  After some reflection I realized that my own experience has taught me that this *state of being in the workplace* is all too common.&lt;/p&gt;
+
+&lt;p&gt;Perhaps it&apos;s not directly analogous to the above, but I’ve certainly worked on teams and under senior leadership that took their work all too seriously.&lt;/p&gt;
+
+&lt;p&gt;There seems to be a correlation between taking your work too seriously and a level of self importance that borders on delusions of grandeur. This parallel is especially rampant in Silicon Valley, where “make a dent in the universe” has been the mantra *de jure* since the late ‘80s.&lt;/p&gt;
+
+&lt;p&gt;If that’s the position you want to operate from, fine, but understand the reality of that perspective and the unintended consequences it can have for those working under its weight.&lt;/p&gt;
+
+&lt;p&gt;It can have a deleterious effect to the atmosphere in which the work is being done and the stakes of that work become artificially elevated. Over time this will erode morale.&lt;/p&gt;
+
+&lt;p&gt;A constant expression of importance can impede the ability to make sound product decisions that are grounded in reality (also something in short supply throughout the Bay Area).&lt;/p&gt;
+
+&lt;p&gt;A work culture like this will ultimately squeeze wit from the product and push levity out of the equation altogether.&lt;/p&gt;
+
+&lt;p&gt;A lack of levity will, at best, lead to burnout and, at worst, birth resentment. Both will degrade the quality of the work.&lt;/p&gt;
+
+&lt;p&gt;Levity can be used as a guideline for how we approach our own work as well as how we ask other to approach theirs. It can provide the margin we need to take more risks and push the perimeter out a bit more.&lt;/p&gt;
+
+&lt;p&gt;Levity frees us up to drop the pretension of product or service the company has socialized and just focus on doing good work.&lt;/p&gt;
+
+&lt;p&gt;We can look at the problems through a different shade lens and  with some wit or humor we can inject some emotion back into the product.&lt;/p&gt;
+
+&lt;p&gt;We can drop our shoulders and take safe harbor in knowing that what we’re actually building isn’t urgent or life changing, and that’s okay&lt;/p&gt;
+
+&lt;p&gt;We often do our best work when we execute small things really well. Those small things are always part of bigger things, and those bigger things will benefit from those small things being done with the utmost care, craft, and with a bit of levity behind it all.&lt;/p&gt;
+
+&lt;p&gt;Embracing levity will benefit your entire organization.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Doucheine</title>
+   <link href="https://justinkropp.com/doucheine"/>
+   <updated>2024-10-30T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/doucheine</id>
+   <content type="html">&lt;article&gt;
+&lt;h2&gt;12 for 10 cents&lt;/h2&gt;
+
+&lt;p&gt;The generally dispensable status of art and design, assigned by our consumer-minded culture, has allowed even the most naive bastard to recognize and revel in the quality of their personal creative vision. Uneducated designers and photographers permeate society and, like their Sunday Painter counterparts, cannot muster a fraction of the effort necessary to create anything of merit. The inordinate number of design agencies opened in recent years is a testament to our desire to communicate visually as well as our ignorance in believing everyone can do so. In the race for status and recognition, money and reputation, process has taken a backseat to pretense.&lt;/p&gt;
+
+&lt;p&gt;A fledgling minority still recognizes the importance of the process inherent to design‚ it is process, not product, that creates. Unfortunately, however, patience has been forfeited for immediate gratification and craft and thought have been superseded by contemporary trends.&lt;/p&gt;
+
+&lt;p&gt;In short: asinine expropriation is in vogue.&lt;/p&gt;
+
+&lt;p&gt;We at doucheine seek to subvert tradition‚ to unapologetically dismantle the regurgitation that so viciously pervades our industry. We abhor style, high-design‚ and the other atrocities being sold today within the confines of the style-houses that plague our industry.&lt;/p&gt;
+
+&lt;p&gt;We definitely Do Shine, but only while we Douche our Ine.&lt;/p&gt;
+
+
+&lt;p&gt;I co-wrote this piece, a manifesto of sorts, years ago in Chicago while visiting a friend who, at the time, was finishing his degree in photography. We spent an evening eating pizza, smoking out in the bitter cold, and discussing the state of our respective disciplines. I’d been a practicing design professional for a few years at that point and had already developed a thickening patina of disillusionment and contempt for my profession. Perhaps it was the burnout from agency life. Maybe it was already there. I suspect the latter because I still feel the weight of that contempt, but it has shifted now to all that comes with working in tech. &lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;In the race for status and recognition, money and reputation, process has taken a backseat to pretense.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;What I felt was true 20 years ago in the design world holds true in the product design landscape of Silicon Valley and beyond. It’s penetrating and perverse. Admired and celebrated. And it’s an utter joke. “It” is the state of design in the digital product design landscape, and I’ve been a part of it for almost 15 years now. If I had to squish it into a review I’d describe it as self congratulatory mutual masturbation without any payoff.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;craft and thought have been superceded by contemporary trends&lt;/p&gt;&lt;/blockquote&gt;
+ 
+
+&lt;p&gt;As true now as it was then.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What is a Designer</title>
+   <link href="https://justinkropp.com/what-is-a-designer"/>
+   <updated>2024-10-29T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/what-is-a-designer</id>
+   <content type="html">&lt;article&gt;
+&lt;p&gt;I’ve been re-reading Norman Potter’s eloquent &lt;a href=&quot;http://amzn.to/2BGFDDf&quot;&gt;What Is a Designer&lt;/a&gt;. There are a handful of books that I revisit periodically to both refresh my perspective on and rekindle the relationship with my discipline — graphic design.&lt;/p&gt;
+
+&lt;p&gt;With each passing year this book has proven to be more and more imperative as a tool for young designers to use in exploring and shaping their practice. Potter positions design as a serious act of intellectual enquiry. The following passages always resonate with me in a profound way:&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;h2&gt;On design education principles:&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The reality factors in academic life may appear to derive less from studio project work, which is always imperfectly ‘real’, than from the discussion that surrounds such work, the exploration of angles of attack, and the slow take-up represented by the experience of community.&lt;/p&gt;
+&lt;p&gt;Design education must, by its nature, dig below the surface, and must at the outset be more concerned to clarify intentions than to get good results.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;On good design:&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;For the designer, good design is the generous and pertinent response to the full context of a design opportunity, whether large or small, and the quality of the outcome resides in a close and truthful correspondence between form and meaning. The meaning of a good garden spade is seen in its behavior, that it performs well; in its look and feel, its strength and required durability; in a directness of address through the simple expression of its function.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;article&gt;
+&lt;p&gt;That last bit — &lt;em&gt;a directness of address through the simple expression of its function&lt;/em&gt;. So good. Adhering to this as a consistent and applied principle of digital product design could alleviate much of the ubiquity of atrocious user experiences.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Familial</title>
+   <link href="https://justinkropp.com/familial"/>
+   <updated>2024-10-26T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/familial</id>
+   <content type="html">&lt;article&gt;
+&lt;p&gt;I stumbled across this the other day from 37signals:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://37signals.com/35/&quot;&gt;Companies aren’t families&lt;/a&gt;&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;When companies say they’re a family, it’s a veiled way of demanding total sacrifice. Nights, weekends, whatever it takes for, you know, “the family”. But great companies aren’t fake families — they’re allies of real families. They don’t eat into people’s personal time, they don’t ask people to dial-in during vacations, and they don’t push them to work Sundays to prep for the meeting on Monday.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;article&gt;
+&lt;p&gt;I think we’ve all dealt with some flavor of this throughout our careers, more so if you’ve worked for an agency, and yet even more if you did so in the early 2000s as I did. In those days the veil wasn’t even there; it was just flat out expected. All-nighters were the norm, and you’d be lucky to  have your effort acknowledged.&lt;/p&gt; 
+
+&lt;p&gt;I moved into the tech space in 2006 and have heard variations of the “family bit” at almost every employer — usually during a company all hands or one of the requisite team offsites.&lt;/p&gt; 
+
+&lt;p&gt;On two occasions the sentiment was fast-followed by a significant round of layoffs. The irony was palpable, as was the vacuousness of the statement. Nothing more than lip service uttered from a pulpit of platitudes. There are exceptions, of course, but these seem to be the outliers.&lt;/p&gt; 
+
+&lt;p&gt;Don’t misunderstand — the first time you hear it, it has the affect of making you feel invited, reassured, even protected. A seduction of a kind. But after the same utterances are offered at the third, fourth, and fifth company, you realize there is a playbook. It’s a kind of tech vernacular that pervades the leadership culture inside of these monolithic orgs.&lt;/p&gt;
+
+&lt;p&gt;I don’t think the intent is of the Machiavellian sort. Rather, I think it’s more like a shallow attempt at asking you to suspend your professional principles — your integrity — for the sake of keeping things moving and meeting deadlines without much pushback. It can sounds something like this:&lt;/p&gt;
+
+&lt;p&gt;“&lt;em&gt;We wouldn’t ask so much of you if we didn’t truly value what you bring to the table.&lt;/em&gt;” &lt;/p&gt;
+
+&lt;p&gt;But what it means is this:&lt;/p&gt;
+
+&lt;p&gt;“&lt;em&gt;We ask so much of you because we don’t value you as a person with a life and other interests. You’re an asset, and we can replace you. You need to perform — at all costs.&lt;/em&gt;”&lt;/p&gt;
+
+&lt;p&gt;It sounds harsh, but I think if anyone tries to convince you otherwise they’re intentionally spraying shit or just plain delusional.&lt;/p&gt; 
+
+&lt;p&gt;This isn’t to suggest that you can’t be close with your colleagues; that you can’t admire, care for, value, or respect them. You can and you should — if warranted. What I’m saying is that you don’t need to feel like you’re a part of a family in a work setting, and your employer doesn’t need to make you feel part of a family.&lt;/p&gt;
+
+&lt;p&gt;Your &lt;em&gt;family&lt;/em&gt; is your family. Your work colleagues are just that: work colleagues.&lt;/p&gt;
+
+&lt;p&gt;I’ve found that — and it’s what I’m arguing here — what is needed from a great employer is rather straightforward:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;A professional work environment centered around the work that needs to be done&lt;/li&gt;
+&lt;li&gt;Challenging projects that help you learn and grow&lt;/li&gt;
+&lt;li&gt;Trust from your manager(s) that you can do the job you were hired to do&lt;/li&gt;
+&lt;li&gt;The acknowledgment that work is only &lt;em&gt;part&lt;/em&gt; of what you do and that you hold other interests and passions&lt;/li&gt;
+&lt;li&gt;Some recognition that the work you are doing is not, in fact, changing the world (spoiler, it’s not). Unless, of course, you are engaged in work that is in fact literally changing the world, but this category of work is such a small percentage of what’s actually being done&lt;/li&gt;
+&lt;li&gt;Colleagues that you get along with and respect, but not necessarily people that you would like to hang out with&lt;/li&gt;
+&lt;li&gt;Respectful pay, good benefits, and a supportive work/life balance (the US is historically shit at the this last one)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And that’s kind of it — give or take. Depending on your professional experience thus far, this list may feel like a lot of big asks, but honestly it’s table stakes.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Note About Opinions</title>
+   <link href="https://justinkropp.com/opinions"/>
+   <updated>2024-10-25T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/opinions</id>
+   <content type="html">&lt;article&gt;
+&lt;p&gt;“Opinions are like assholes; everyone’s got one.”&lt;/p&gt;
+
+&lt;p&gt;This old adage has been around for quite a while and comes in many different flavors (pardon the visual). While everyone is entitled to &lt;em&gt;have&lt;/em&gt; an opinion, you don’t &lt;em&gt;need&lt;/em&gt; to.&lt;/p&gt;
+
+&lt;p&gt;Here’s where I land &lt;em&gt;ye old position&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;If you’re going to have an opinion, understand &lt;em&gt;why&lt;/em&gt; you hold it and be able to &lt;em&gt;defend&lt;/em&gt; it.&lt;/li&gt;
+&lt;li&gt;You &lt;strong&gt;do not&lt;/strong&gt; have to have an opinion. In fact, I’d argue that holding no opinion should be your default.&lt;/li&gt;
+&lt;li&gt;Hold yours closely until asked for. &lt;em&gt;Think more. Talk less&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I’ve found it to be quite liberating, when asked for my opinion on a particular matter, to state that I have none.&lt;/p&gt;
+
+&lt;p&gt;Note: I understand the irony in having and volunteering an opinion on not having an opinion. Go figure.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Note About The Rabbit R1</title>
+   <link href="https://justinkropp.com/rabbit"/>
+   <updated>2024-10-20T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/rabbit</id>
+   <content type="html">&lt;article&gt;
+  &lt;p&gt;The &lt;a href=&quot;https://www.rabbit.tech/&quot;&gt;rabbit r1&lt;/a&gt; is marketed as a &lt;em&gt;pocket companion, powered by rabbit os — a personalized operating system through a natural language interface&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Bullshit.&lt;/p&gt;
+
+&lt;p&gt;The rabbit r1 is a toy for &lt;a href=&quot;https://twitter.com/elonmusk&quot;&gt;adult children&lt;/a&gt; with excess disposable income and a paralyzing fear of missing out on the latest piece of tech; tech they need in order to keep up with the Joneses.&lt;/p&gt;
+
+&lt;p&gt;Rather than producing innovative tech of merit, they opted to manufacture problems that don’t need to be solved. Rabbit has clearly earned a top spot in this club along with the likes of &lt;a href=&quot;https://humane.com/&quot;&gt;Humane&lt;/a&gt; and &lt;a href=&quot;https://teenage.engineering/&quot;&gt;teenage engineering&lt;/a&gt;.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Note About Twitter</title>
+   <link href="https://justinkropp.com/twitter"/>
+   <updated>2024-10-02T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/twitter</id>
+   <content type="html">&lt;article&gt;
+&lt;p&gt;I joined Twitter a few years ago with the intent of just flirting with the experience. I was curious about its user experience and the range of content it offered. My biggest question was whether or not it could provide enough value that would make it sticky.&lt;/p&gt;
+
+&lt;p&gt;It did not.&lt;/p&gt;
+
+&lt;p&gt;Even in the browsing of circles directly related to my own discipline, career, or interests it fell short. What I did find was brute posturing, ignorance masquerading as expertise, toxic positivity, unlettered assertions, thought-terminating clichés, and — in the case of almighty tech — an exercise in mutual masturbation disguised as LFG tropes.&lt;/p&gt; 
+
+&lt;p&gt;No thanks. I’ll stick with books and reticence.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Project Two</title>
+   <link href="https://justinkropp.com/project-two"/>
+   <updated>2024-10-02T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/project-two</id>
+   <content type="html">&lt;article&gt;
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;h2&gt;H2 Headline&lt;/h2&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;h3&gt;H3 Headline&lt;/h3&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;grid&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Project One</title>
+   <link href="https://justinkropp.com/project-one"/>
+   <updated>2024-10-02T00:00:00-04:00</updated>
+   <id>https://justinkropp.com/project-one</id>
+   <content type="html">&lt;article&gt;
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;h2&gt;H2 Headline&lt;/h2&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+
+&lt;h3&gt;H3 Headline&lt;/h3&gt;
+
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;article&gt;
+&lt;p&gt;Deleniti suscipit nihil at aut a. Magni optio est nostrum quam tempore laudantium reiciendis omnis molestias soluta enim. Ea occaecati dolor quasi sunt qui repellendus dolores. Sunt veritatis vel autem cumque repudiandae excepturi incidunt vel voluptates molestias expedita. Doloremque eos dolor in ut velit quod aut.&lt;/p&gt;
+&lt;/article&gt;
+</content>
+ </entry>
+ 
+
+</feed>
