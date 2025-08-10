@@ -3,9 +3,9 @@
 
  <title>Justin Kropp</title>
  <link href="/atom.xml" rel="self"/>
- <link href="https://justinkropp.com/"/>
- <updated>2025-08-10T09:53:58-04:00</updated>
- <id>https://justinkropp.com</id>
+ <link href="http://localhost:4000/"/>
+ <updated>2025-08-10T10:05:57-04:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Justin Kropp</name>
    <email>justinkropp@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="https://justinkropp.com/example-content"/>
+   <link href="http://localhost:4000/example-content"/>
    <updated>2025-04-22T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/example-content</id>
+   <id>http://localhost:4000/example-content</id>
    <content type="html">&lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
 &lt;/figure&gt;
@@ -57,9 +57,9 @@
  
  <entry>
    <title>JOMO</title>
-   <link href="https://justinkropp.com/jomo"/>
+   <link href="http://localhost:4000/jomo"/>
    <updated>2025-03-27T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/jomo</id>
+   <id>http://localhost:4000/jomo</id>
    <content type="html">&lt;article&gt;
 
 &lt;p&gt;Like many of us I tend to pass some of my downtime or in-between time by browsing social media or mindlessly ingesting a palette of headlines from *insert news org here*. Last year I realized that my social media habits were simply a surrogate for a feeling of connectedness to the world and what was going on in the small circles of interest I followed. The news simply served as a way for me to navigate making sense of what was going on in the world at large. Both habits — social media and the news — were a kind of participatory activity predicated on FOMO. If a friend asked “did you hear about so and so” I could respond — confidently — yes, and then we could riff. Or if, while thumbing down my Instagram feed, I got sucked into some video from Huberman or Attia I would feel like it was time well spent because I had gained some new knowledge about morning sunlight or some bio-marker that I really need to get checked for.&lt;/p&gt;
@@ -78,9 +78,9 @@
  
  <entry>
    <title>False Idols</title>
-   <link href="https://justinkropp.com/false-idols"/>
+   <link href="http://localhost:4000/false-idols"/>
    <updated>2025-03-27T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/false-idols</id>
+   <id>http://localhost:4000/false-idols</id>
    <content type="html">&lt;article&gt;
 
 &lt;p&gt;Every profession has its version of celebrity practitioner. Some professions have many, while others seem to just have a small handful that make the rounds for years in publications, conferences, panels, etc. In graphic design, Stefan Sagmeister was a the closest thing we had to a rock star, and he remained the exalted one for years. In standards-based web design it was Jeffrey Zeldman. Flash? Joshua Davis. In digital product design there seem to be countless that tread at the top, in part due to the many disciplines that are squished together and encapsulated in the term &quot;product design&quot;.&lt;/p&gt;
@@ -113,9 +113,9 @@
  
  <entry>
    <title>Beyond Familiar</title>
-   <link href="https://justinkropp.com/beyond-familiar"/>
+   <link href="http://localhost:4000/beyond-familiar"/>
    <updated>2025-03-27T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/beyond-familiar</id>
+   <id>http://localhost:4000/beyond-familiar</id>
    <content type="html">&lt;article&gt;
 
 &lt;p&gt;I recently visited Chattanooga in Tennessee. It&apos;s my hometown and a trip there is never easy for me. There is always a point during my visits when I become emotional as slivers of my past — the good and the bad — resurface. There are parts of the city that conjure up memories that I&apos;d rather not revisit: painful breakups, a car accident, and familial drama. But there are also locations that provide an overwhelming source of happiness and fondness — the hundreds of beautiful days I spent outside rock-climbing with friends, the amazing job I had at an outdoor shop during high-school and college, and my first kiss with Erin.&lt;/p&gt;
@@ -144,9 +144,9 @@
  
  <entry>
    <title>Unapologetic</title>
-   <link href="https://justinkropp.com/unapologetic"/>
+   <link href="http://localhost:4000/unapologetic"/>
    <updated>2025-03-26T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/unapologetic</id>
+   <id>http://localhost:4000/unapologetic</id>
    <content type="html">&lt;article&gt;
 
 &lt;p&gt;Talking politics or religion is often considered taboo — especially in unfamiliar social settings — for fear of insulting the beliefs or worldviews of others. Treading lightly is overrated, and I say fuck holding your views close to the chest. Many political positions — and all religious views — are contemptible and worthy of savage derision. If you hold your convictions firm, and believe them to be on the right side of morality, then be unapologetic in both your holding of those convictions and in your freedom to publicly espouse them. The world needs fewer milksops, not more.&lt;/p&gt;
@@ -171,9 +171,9 @@
  
  <entry>
    <title>Sketch Two</title>
-   <link href="https://justinkropp.com/sketch-two"/>
+   <link href="http://localhost:4000/sketch-two"/>
    <updated>2025-03-24T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/sketch-two</id>
+   <id>http://localhost:4000/sketch-two</id>
    <content type="html">&lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
 &lt;/figure&gt;
@@ -186,9 +186,9 @@
  
  <entry>
    <title>Sketch Three</title>
-   <link href="https://justinkropp.com/sketch-three"/>
+   <link href="http://localhost:4000/sketch-three"/>
    <updated>2025-03-24T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/sketch-three</id>
+   <id>http://localhost:4000/sketch-three</id>
    <content type="html">&lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;./assets/sketch-three.png&quot; /&gt;
 &lt;/figure&gt;
@@ -201,9 +201,9 @@
  
  <entry>
    <title>Sketch Six</title>
-   <link href="https://justinkropp.com/sketch-six"/>
+   <link href="http://localhost:4000/sketch-six"/>
    <updated>2025-03-24T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/sketch-six</id>
+   <id>http://localhost:4000/sketch-six</id>
    <content type="html">&lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
 &lt;/figure&gt;
@@ -216,9 +216,9 @@
  
  <entry>
    <title>Sketch One</title>
-   <link href="https://justinkropp.com/sketch-one"/>
+   <link href="http://localhost:4000/sketch-one"/>
    <updated>2025-03-24T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/sketch-one</id>
+   <id>http://localhost:4000/sketch-one</id>
    <content type="html">&lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
 &lt;/figure&gt;
@@ -231,9 +231,9 @@
  
  <entry>
    <title>Sketch Four</title>
-   <link href="https://justinkropp.com/sketch-four"/>
+   <link href="http://localhost:4000/sketch-four"/>
    <updated>2025-03-24T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/sketch-four</id>
+   <id>http://localhost:4000/sketch-four</id>
    <content type="html">&lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
 &lt;/figure&gt;
@@ -246,9 +246,9 @@
  
  <entry>
    <title>Sketch Five</title>
-   <link href="https://justinkropp.com/sketch-five"/>
+   <link href="http://localhost:4000/sketch-five"/>
    <updated>2025-03-24T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/sketch-five</id>
+   <id>http://localhost:4000/sketch-five</id>
    <content type="html">&lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;./assets/fpo.png&quot; /&gt;
 &lt;/figure&gt;
@@ -261,9 +261,9 @@
  
  <entry>
    <title>Project Six</title>
-   <link href="https://justinkropp.com/project-six"/>
+   <link href="http://localhost:4000/project-six"/>
    <updated>2025-03-24T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/project-six</id>
+   <id>http://localhost:4000/project-six</id>
    <content type="html">&lt;article&gt;
 &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
 
@@ -308,9 +308,9 @@
  
  <entry>
    <title>Project Five</title>
-   <link href="https://justinkropp.com/project-five"/>
+   <link href="http://localhost:4000/project-five"/>
    <updated>2025-03-24T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/project-five</id>
+   <id>http://localhost:4000/project-five</id>
    <content type="html">&lt;article&gt;
 &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
 
@@ -355,9 +355,9 @@
  
  <entry>
    <title>Feedback</title>
-   <link href="https://justinkropp.com/feedback"/>
+   <link href="http://localhost:4000/feedback"/>
    <updated>2025-03-02T00:00:00-05:00</updated>
-   <id>https://justinkropp.com/feedback</id>
+   <id>http://localhost:4000/feedback</id>
    <content type="html">&lt;article&gt;
 
 &lt;p&gt;In my 20 years as a design practitioner I’ve received, and given, a fair share of feedback. The ability to give helpful, and receive critical, feedback is as important to your design career as any other facet of the discipline. Engaging with both takes patience and practice. If you’re lucky, you’ll end up surrounded by peers who give you the space to practice as well as providing good examples of useful feedback.&lt;/p&gt;
@@ -405,9 +405,9 @@
  
  <entry>
    <title>Leading with Levity</title>
-   <link href="https://justinkropp.com/levity"/>
+   <link href="http://localhost:4000/levity"/>
    <updated>2024-10-30T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/levity</id>
+   <id>http://localhost:4000/levity</id>
    <content type="html">&lt;p&gt;Some time ago I heard a comedian telling a story about friend who was describing what their day job was like, and this person described it as: *doing serious work for serious people seriously.*&lt;/p&gt;
 
 &lt;p&gt;All I could think of at the time was how uninspired that work must be. How exhausting it must be to slog through that kind of environment day after day.  After some reflection I realized that my own experience has taught me that this *state of being in the workplace* is all too common.&lt;/p&gt;
@@ -442,9 +442,9 @@
  
  <entry>
    <title>Doucheine</title>
-   <link href="https://justinkropp.com/doucheine"/>
+   <link href="http://localhost:4000/doucheine"/>
    <updated>2024-10-30T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/doucheine</id>
+   <id>http://localhost:4000/doucheine</id>
    <content type="html">&lt;article&gt;
 &lt;h2&gt;12 for 10 cents&lt;/h2&gt;
 
@@ -475,9 +475,9 @@
  
  <entry>
    <title>What is a Designer</title>
-   <link href="https://justinkropp.com/what-is-a-designer"/>
+   <link href="http://localhost:4000/what-is-a-designer"/>
    <updated>2024-10-29T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/what-is-a-designer</id>
+   <id>http://localhost:4000/what-is-a-designer</id>
    <content type="html">&lt;article&gt;
 &lt;p&gt;I’ve been re-reading Norman Potter’s eloquent &lt;a href=&quot;http://amzn.to/2BGFDDf&quot;&gt;What Is a Designer&lt;/a&gt;. There are a handful of books that I revisit periodically to both refresh my perspective on and rekindle the relationship with my discipline — graphic design.&lt;/p&gt;
 
@@ -505,9 +505,9 @@
  
  <entry>
    <title>Familial</title>
-   <link href="https://justinkropp.com/familial"/>
+   <link href="http://localhost:4000/familial"/>
    <updated>2024-10-26T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/familial</id>
+   <id>http://localhost:4000/familial</id>
    <content type="html">&lt;article&gt;
 &lt;p&gt;I stumbled across this the other day from 37signals:&lt;/p&gt;
 
@@ -560,9 +560,9 @@
  
  <entry>
    <title>A Note About Opinions</title>
-   <link href="https://justinkropp.com/opinions"/>
+   <link href="http://localhost:4000/opinions"/>
    <updated>2024-10-25T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/opinions</id>
+   <id>http://localhost:4000/opinions</id>
    <content type="html">&lt;article&gt;
 &lt;p&gt;“Opinions are like assholes; everyone’s got one.”&lt;/p&gt;
 
@@ -585,9 +585,9 @@
  
  <entry>
    <title>A Note About The Rabbit R1</title>
-   <link href="https://justinkropp.com/rabbit"/>
+   <link href="http://localhost:4000/rabbit"/>
    <updated>2024-10-20T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/rabbit</id>
+   <id>http://localhost:4000/rabbit</id>
    <content type="html">&lt;article&gt;
   &lt;p&gt;The &lt;a href=&quot;https://www.rabbit.tech/&quot;&gt;rabbit r1&lt;/a&gt; is marketed as a &lt;em&gt;pocket companion, powered by rabbit os — a personalized operating system through a natural language interface&lt;/em&gt;.&lt;/p&gt;
 
@@ -602,9 +602,9 @@
  
  <entry>
    <title>A Note About Twitter</title>
-   <link href="https://justinkropp.com/twitter"/>
+   <link href="http://localhost:4000/twitter"/>
    <updated>2024-10-02T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/twitter</id>
+   <id>http://localhost:4000/twitter</id>
    <content type="html">&lt;article&gt;
 &lt;p&gt;I joined Twitter a few years ago with the intent of just flirting with the experience. I was curious about its user experience and the range of content it offered. My biggest question was whether or not it could provide enough value that would make it sticky.&lt;/p&gt;
 
@@ -619,9 +619,9 @@
  
  <entry>
    <title>Project Two</title>
-   <link href="https://justinkropp.com/project-two"/>
+   <link href="http://localhost:4000/project-two"/>
    <updated>2024-10-02T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/project-two</id>
+   <id>http://localhost:4000/project-two</id>
    <content type="html">&lt;article&gt;
 &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
 
@@ -661,9 +661,9 @@
  
  <entry>
    <title>Project One</title>
-   <link href="https://justinkropp.com/project-one"/>
+   <link href="http://localhost:4000/project-one"/>
    <updated>2024-10-02T00:00:00-04:00</updated>
-   <id>https://justinkropp.com/project-one</id>
+   <id>http://localhost:4000/project-one</id>
    <content type="html">&lt;article&gt;
 &lt;p&gt;Corporis ipsum qui laboriosam dignissimos eum voluptatibus. Minus officiis ducimus voluptatem repudiandae eum voluptatum iusto omnis voluptatum ut molestiae. Consequuntur possimus excepturi voluptate delectus rem quis quia mollitia aspernatur explicabo molestiae a qui ipsam. Quisquam blanditiis quo sit modi.&lt;/p&gt;
 
