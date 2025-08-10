@@ -27,10 +27,10 @@ exclude:
 
 sass:
   load_paths:
-    # - _sass
+    - /
     # - node_modules
 
-#   sass_dir: _sass
+  sass_dir: /
 #   style: :compressed
 
 # Options
