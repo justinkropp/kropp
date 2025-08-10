@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "Scala";
+  src: url("/assets/fonts/ScalaWeb.woff") format("woff");
+}
+@font-face {
+  font-family: "Scala Italic";
+  src: url("/assets/fonts/ScalaWeb-Ita.woff") format("woff");
+}
 :root {
   --black: rgba(0, 0, 0, 0.80);
   --dk-grey: rgba(0, 0, 0, 0.8);
@@ -23,10 +31,8 @@
 body {
   width: 100%;
   height: 100dvh;
-  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
-  background: var(--black);
 }
 
 img,
@@ -63,7 +69,6 @@ h6 {
   overflow-wrap: break-word;
   font-size: 1rem;
   font-weight: normal;
-  color: var(--white);
 }
 
 ul, ol {
@@ -79,7 +84,7 @@ strong {
 a {
   text-decoration: none;
   transition: all 200ms ease;
-  color: var(--white);
+  color: #111;
 }
 
 img {
@@ -89,294 +94,27 @@ img {
 
 body#home {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
   width: 100%;
-  padding: 5em;
-  background: rgba(0, 0, 0, 0.9);
+  background: #EBEBEB;
 }
 body#home .container {
-  display: flex;
-  flex-direction: column;
-  max-width: 36em;
-  gap: 1em;
-}
-body#home .container p {
-  font-size: 1.25rem;
-}
-
-.wrapper {
-  width: 100%;
-  min-height: 100vh;
-  padding: 5em 10em;
-  background: var(--black);
-  border: 1px solid red;
-}
-.wrapper header[role=masthead],
-.wrapper footer[role=footer] {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-}
-.wrapper header[role=masthead] h1 {
-  line-height: 1;
-  font-weight: 500;
-}
-.wrapper header[role=masthead] nav ul {
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
-  gap: 2em;
-}
-.wrapper header[role=masthead] nav ul li a {
-  color: rgba(255, 255, 255, 0.5);
-  transition: all 200ms ease;
-}
-.wrapper header[role=masthead] nav ul li a:hover {
-  color: rgba(255, 255, 255, 0.9);
-}
-.wrapper footer[role=footer] a {
-  color: rgba(255, 255, 255, 0.5);
-  transition: all 200ms ease;
-}
-.wrapper footer[role=footer] a:hover {
-  color: rgba(255, 255, 255, 0.9);
-}
-.wrapper main {
   width: 100%;
   height: 100%;
-  margin: 5em 0;
+  padding: 5em;
 }
-
-.featured {
-  margin: 0 0 5em 0;
-}
-.featured ul {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: auto;
-  gap: 2em;
-}
-.featured ul li:nth-child(1) {
-  grid-column: 1/4;
-}
-.featured ul li:nth-child(2) {
-  grid-column: 4/7;
-}
-.featured ul li:nth-child(3) {
-  grid-column: 1/3;
-}
-.featured ul li:nth-child(4) {
-  grid-column: 3/5;
-}
-.featured ul li:nth-child(5) {
-  grid-column: 5/7;
-}
-.featured ul li a {
-  display: block;
-  width: 100%;
-  min-height: 100%;
-  position: relative;
-  transition: all 200ms ease;
-}
-.featured ul li a h2 {
-  position: absolute;
-  left: 1em;
-  bottom: 1em;
-  font-weight: 500;
-  z-index: 1;
-  transition: all 200ms ease;
-}
-.featured ul li a img {
-  width: 100%;
-  height: auto;
-  z-index: 0;
-  transition: all 200ms ease;
-}
-.featured ul li a:hover img {
-  filter: brightness(1.75);
-}
-
-header.writing-intro {
-  margin: 0 0 1em 0;
-  padding: 0 0 0.5em 0;
-  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
-}
-header.writing-intro h2 {
-  font-weight: 500;
-  color: rgba(255, 255, 255, 0.5);
-}
-
-.post-index {
+body#home .container section {
   display: flex;
   flex-direction: column;
-}
-.post-index li a {
-  display: flex;
-  flex-direction: row;
-  gap: 2em;
-  padding: 0.5em 0;
-  transition: all 200ms ease;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-}
-.post-index li a h2.title {
-  width: 60%;
-  font-weight: 500;
-}
-.post-index li a p.tags {
-  width: 20%;
-  color: rgba(255, 255, 255, 0.6);
-  transition: all 200ms ease;
-}
-.post-index li a p.month {
-  width: 10%;
-  text-align: right;
-  color: rgba(255, 255, 255, 0.4);
-  transition: all 200ms ease;
-}
-.post-index li a p.year {
-  width: 10%;
-  text-align: right;
-  color: rgba(255, 255, 255, 0.3);
-  transition: all 200ms ease;
-}
-.post-index li a:hover {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.25);
-}
-.post-index li a:hover p {
-  color: rgba(255, 255, 255, 0.9);
-}
-
-.post {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 2em;
-}
-.post header {
-  width: 100%;
-  max-width: 40em;
-  display: flex;
-  align-items: center;
-}
-.post header h2 {
-  width: 100%;
-  font-weight: 500;
-}
-.post footer.footer {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 2em;
-  width: 100%;
+  gap: 1em;
   max-width: 30em;
-  margin: 5em 0;
 }
-.post footer.footer:before, .post footer.footer:after {
-  content: "";
-  display: block;
-  width: 5em;
-  height: 1px;
-  background: rgba(255, 255, 255, 0.25);
+body#home .container section p {
+  font-family: "Scala";
+  font-size: 1.1rem;
+  color: #444;
 }
-.post footer.footer p {
-  text-align: center;
-  color: rgba(255, 255, 255, 0.5);
-}
-.post article {
-  width: 100%;
-  max-width: 40em;
-  display: flex;
-  flex-direction: column;
-  gap: 1em;
-}
-.post article h2, .post article h3 {
-  margin: 1em 0;
-  font-weight: 500;
-}
-.post article p, .post article li {
-  color: rgba(255, 255, 255, 0.7);
-}
-.post article p a, .post article li a {
-  text-decoration: underline;
-  text-underline-offset: 4px;
-  text-decoration-color: rgba(255, 255, 255, 0.2);
-  background: rgba(255, 255, 255, 0.05);
-}
-.post article p a:hover, .post article li a:hover {
-  text-decoration-color: rgba(255, 255, 255, 0.5);
-  background: rgba(255, 255, 255, 0.1);
-}
-.post article ul {
-  list-style-position: outside;
-  list-style-type: disc;
-}
-.post article ol {
-  list-style-position: outside;
-  list-style-type: decimal;
-}
-.post article ul, .post article ol {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5em;
-  margin-left: -0.5em;
-}
-.post article ul li, .post article ol li {
-  padding-left: 0.5em;
-}
-.post blockquote {
-  width: 100%;
-  max-width: 40em;
-  padding: 1em 0 1em 2em;
-  border-left: 4px solid rgba(255, 255, 255, 0.7);
-}
-.post blockquote p {
-  color: rgba(255, 255, 255, 0.7);
-}
-
-.sketchbook {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: auto;
-  gap: 2em;
-}
-.sketchbook .project {
-  width: 100%;
-}
-.sketchbook .project a {
-  display: flex;
-}
-.sketchbook .project a img {
-  width: 100%;
-  height: auto;
-  z-index: 0;
-  transition: all 200ms ease;
-}
-.sketchbook .project a:hover img {
-  filter: brightness(1.75);
-}
-
-.sketch {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 2em;
-}
-.sketch article {
-  width: 100%;
-  max-width: 40em;
-  display: flex;
-  flex-direction: column;
-  gap: 1em;
-}
-.sketch article h2, .sketch article h3 {
-  margin: 1em 0;
-  font-weight: 500;
-}
-.sketch article p {
-  color: rgba(255, 255, 255, 0.7);
+body#home .container section p em {
+  font-family: "Scala Italic";
 }
 
 /*# sourceMappingURL=styles.css.map */
